@@ -1,2 +1,2 @@
 # m3u
-My myu playlists
+My m3u playlists and apks to sideload to Kindle TVs
