@@ -1,571 +1,619 @@
 #EXTM3U
 
-#EXTINF:-1,Rai 1 HD [1]
+#EXTINF:-1,Rai 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=16
 
-#EXTINF:-1,Rai 2 HD [2]
+#EXTINF:-1,Rai 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=16
 
-#EXTINF:-1,Rai 3 HD [3]
+#EXTINF:-1,Rai 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=16
 
-#EXTINF:-1,Rete 4 HD [4]
+#EXTINF:-1,Rete 4 HD
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
 
-#EXTINF:-1,Canale 5 HD [5]
+#EXTINF:-1,Canale 5 HD
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
 
-#EXTINF:-1,Italia1 HD [6]
+#EXTINF:-1,Italia1 HD
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
 
-#EXTINF:-1,LA7 HD [7]
-https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live_1280x720_.m3u8
+#EXTINF:-1,LA7 HD
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 
-#EXTINF:-1,TV8 HD [8]
+#EXTINF:-1,TV8
 https://www.mytivu.it/Application/Channels/TV8.php
 
-#EXTINF:-1,Nove (HD) [9]
+#EXTINF:-1,Nove
 
 
-#EXTINF:-1,Rai 4 HD [10]
+#EXTINF:-1,Rai 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=16
 
-#EXTINF:-1,Iris HD [11]
+#EXTINF:-1,Iris HD
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
 
-#EXTINF:-1,La5 HD [12]
+#EXTINF:-1,La5 HD
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
 
-#EXTINF:-1,Rai 5 HD [13]
+#EXTINF:-1,Rai 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=16
 
-#EXTINF:-1,Rai Movie HD [14]
+#EXTINF:-1,Rai Movie HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=16
 
-#EXTINF:-1,Rai Premium HD [15]
+#EXTINF:-1,Rai Premium HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=16
 
-#EXTINF:-1,Mediaset Italia2 HD [16]
+#EXTINF:-1,Mediaset Italia2 HD
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
 
-#EXTINF:-1,Mediaset Extra HD [17]
+#EXTINF:-1,Mediaset Extra HD
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
 
-#EXTINF:-1,TV2000 HD [18]
+#EXTINF:-1,TV2000 HD
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
-#EXTINF:-1,cielo HD [19]
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1676926758~exp=1676927058~acl=/*~hmac=7118fd3c2dd988fd4d37f546da7aad61f306b4294401b8360d66daab99b2ecc8
+#EXTINF:-1,cielo HD
+https://mytivu.it/Application/Channels/Cielo.php
 
-#EXTINF:-1,20 Mediaset HD [20]
+#EXTINF:-1,20 Mediaset HD
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
 
-#EXTINF:-1,Rai Sport HD [21]
+#EXTINF:-1,Rai Sport HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358071&output=16
 
-#EXTINF:-1,VH1 HD [22]
-https://content-aeuf1.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf/e.m3u8?ct=c&expand=simulcast_standard&cid=36953f5b6546464590d2fcd954bc89cf&pbs=a77ad4663cfa439a8391a4346d27461b
+#EXTINF:-1,VH1 HD
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
-#EXTINF:-1,Rai Storia HD [23]
+#EXTINF:-1,Rai Storia HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=16
 
-#EXTINF:-1,Rai News 24 HD [24]
+#EXTINF:-1,Rai News 24 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
 
-#EXTINF:-1,TGCOM24 HD [25]
+#EXTINF:-1,TGCOM24 HD
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
 
-#EXTINF:-1,Rai Scuola HD [26]
+#EXTINF:-1,Rai Scuola HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16
 
-#EXTINF:-1,27Twentyseven HD [27]
+#EXTINF:-1,27Twentyseven HD
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ts)/index.m3u8
 
-#EXTINF:-1,DMAX Italy (HD) [28]
+#EXTINF:-1,DMAX Italy (HD)
 
 
-#EXTINF:-1,LA7d HD [29]
+#EXTINF:-1,LA7d HD
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live_1280x720_.m3u8
 
-#EXTINF:-1,Super Tennis [30]
+#EXTINF:-1,Super Tennis
 https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
 
-#EXTINF:-1,Realtime Italy (HD) [31]
+#EXTINF:-1,Realtime Italy (HD)
 
 
-#EXTINF:-1,QVC HD (SAT) [32]
+#EXTINF:-1,QVC HD (SAT)
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/720p/720p.m3u8
 
-#EXTINF:-1,Focus HD [33]
+#EXTINF:-1,Focus HD
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
 
-#EXTINF:-1,Cine34 HD [34]
+#EXTINF:-1,Cine34 HD
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
 
-#EXTINF:-1,Radio Italia TV HD [35]
+#EXTINF:-1,Radio Italia TV HD
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 
-#EXTINF:-1,RTL 102.5 HD [36]
+#EXTINF:-1,RTL 102.5 HD
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 
-#EXTINF:-1,RTL 102.5 NEWS ASPI (HD) [37]
+#EXTINF:-1,RTL 102.5 NEWS ASPI (HD)
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 
-#EXTINF:-1,Giallo (HD) [38]
+#EXTINF:-1,Giallo (HD)
 
 
-#EXTINF:-1,TOPcrime HD [39]
+#EXTINF:-1,TOPcrime HD
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
 
-#EXTINF:-1,Boing [40]
+#EXTINF:-1,Boing
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
 
-#EXTINF:-1,Cartoonito [41]
+#EXTINF:-1,Cartoonito
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(la)/index.m3u8
 
-#EXTINF:-1,Rai Gulp HD [42]
+#EXTINF:-1,Rai Gulp HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=7469536&output=16
 
-#EXTINF:-1,Rai YoYo HD [43]
+#EXTINF:-1,Rai YoYo HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=16
 
-#EXTINF:-1,Frisbee [44]
+#EXTINF:-1,Frisbee
 
 
-#EXTINF:-1,K2 [46]
+#EXTINF:-1,K2
 
 
-#EXTINF:-1,Super! [47]
+#EXTINF:-1,Super!
 https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
 
-#EXTINF:-1,Arte HD [48]
+#EXTINF:-1,Arte HD
 
 
-#EXTINF:-1,MEZZO* [49]
+#EXTINF:-1,MEZZO*
 
 
-#EXTINF:-1,RDS Social TV (HD) [50]
+#EXTINF:-1,RDS Social TV (HD)
 https://stream.rds.radio/audio/rds.stream_aac/playlist.m3u8
 
-#EXTINF:-1,EQUtv [51]
+#EXTINF:-1,EQUtv
 
 
-#EXTINF:-1,ACI_sportTV [52]
+#EXTINF:-1,ACI_sportTV
 https://g4wlk6xpy23a-hls-live.mariatvcdn.it/acisporttv/b7a3464f8e2001314de9fefebf11229d.sdp/playlist.m3u8
 
-#EXTINF:-1,Food Network Italy (HD) [53]
+#EXTINF:-1,Food Network Italy (HD)
 
 
-#EXTINF:-1,WarnerTV Italy HD [54]
+#EXTINF:-1,WarnerTV Italy HD
 
 
-#EXTINF:-1,GOLD TV (SAT) [55]
+#EXTINF:-1,GOLD TV (SAT)
 https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
 
-#EXTINF:-1,HGTV Italy (HD) [56]
+#EXTINF:-1,HGTV Italy (HD)
 
 
-#EXTINF:-1,MotorTrend (HD) [57]
+#EXTINF:-1,MotorTrend (HD)
 
 
-#EXTINF:-1,Solo Calcio [58]
+#EXTINF:-1,Solo Calcio
 https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 
-#EXTINF:-1,Euronews Italian [59]
+#EXTINF:-1,Euronews Italian
 https://www.youtube.com/channel/UC1mX9vuLOYf8fhaXS_KcDRg/live
 
-#EXTINF:-1,Euronews Russian [60]
+#EXTINF:-1,Euronews Russian
 https://www.youtube.com/@euronewsru/live
 
-#EXTINF:-1,BFC [61]
+#EXTINF:-1,BFC
 https://62becaa5a1e2f.streamlock.net/BFC/BFC/playlist.m3u8
 
-#EXTINF:-1,Radio Italia Trend TV HD [63]
+#EXTINF:-1,Radio Italia Trend TV HD
 https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/amRdirect//hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8
 
-#EXTINF:-1,Radio Kiss Kiss TV (HD) [64]
+#EXTINF:-1,Radio Kiss Kiss TV (HD)
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
 
-#EXTINF:-1,RADIO ZETA HD [65]
+#EXTINF:-1,RADIO ZETA HD
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
 
-#EXTINF:-1,RADIOFRECCIA HD [66]
+#EXTINF:-1,RADIOFRECCIA HD
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 
-#EXTINF:-1,RADIO MONTE CARLO [67]
+#EXTINF:-1,RADIO MONTE CARLO
 https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(bb)/manifest.mpd
 
-#EXTINF:-1,VIRGIN RADIO [68]
+#EXTINF:-1,VIRGIN RADIO
 https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ew)/manifest.mpd
 
-#EXTINF:-1,France 24 HD (in English) [69]
+#EXTINF:-1,France 24 HD (in English)
 https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg/live
 
-#EXTINF:-1,BBC World News [70]
+#EXTINF:-1,BBC World News
 
 
-#EXTINF:-1,Al Jazeera English HD [71]
+#EXTINF:-1,Al Jazeera English HD
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1,TRT World HD [72]
+#EXTINF:-1,TRT World HD
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1,NHK WORLD-JAPAN (HD) [73]
+#EXTINF:-1,NHK WORLD-JAPAN (HD)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
-#EXTINF:-1,UATV [74]
+#EXTINF:-1,UATV
 http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8
 
-#EXTINF:-1,France 24 HD (en Francais) [75]
+#EXTINF:-1,France 24 HD (en Francais)
 https://www.youtube.com/channel/UCCCPCZNChQdGa9EkATeye4g/live
 
-#EXTINF:-1,Nickelodeon Ukraine Pluto TV [76]
+#EXTINF:-1,Nickelodeon Ukraine Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/622882350f6aad0008c76e77/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1,Al Jazeera HD [77]
+#EXTINF:-1,Al Jazeera HD
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
-#EXTINF:-1,Espresso TV [78]
+#EXTINF:-1,Espresso TV
 https://www.youtube.com/watch?v=6LzcbC02wJI
 
-#EXTINF:-1,Sonlife [79]
+#EXTINF:-1,Sonlife
 
 
-#EXTINF:-1,CNBC HD [81]
+#EXTINF:-1,CNBC HD
 http://ott-cdn.ucom.am/s65/index.m3u8
 
-#EXTINF:-1,Bloomberg European TV [82]
+#EXTINF:-1,Bloomberg European TV
 
 
-#EXTINF:-1,i24News HD English [83]
+#EXTINF:-1,i24News HD English
 
 
-#EXTINF:-1,i24News HD French [84]
+#EXTINF:-1,i24News HD French
 
 
-#EXTINF:-1,DW English HD [85]
+#EXTINF:-1,DW English HD
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1,Euronews English HD [86]
+#EXTINF:-1,Euronews English HD
 https://www.youtube.com/watch?v=pykpO5kQJ98/
 
-#EXTINF:-1,CGTN [87]
+#EXTINF:-1,CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
-#EXTINF:-1,CGTN Documentary [88]
+#EXTINF:-1,CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
-#EXTINF:-1,Senato [89]
+#EXTINF:-1,Senato
 
 
-#EXTINF:-1,Camera Deputati [90]
+#EXTINF:-1,Camera Deputati
 https://www.youtube.com/watch?v=Cnjs83yowUM
 
-#EXTINF:-1,KBS WORLD HD [91]
+#EXTINF:-1,KBS WORLD HD
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
-#EXTINF:-1,CCTV 4E [92]
+#EXTINF:-1,CCTV 4E
 
 
-#EXTINF:-1,SMTv San Marino HD [93]
+#EXTINF:-1,SMTv San Marino HD
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
 
-#EXTINF:-1,100 tivùlink
+100 tivùlink
 
 
-#EXTINF:-1,Rai Radio 2 Visual [202]
+#EXTINF:-1,Rai Radio 2 Visual
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=16
 
-#EXTINF:-1,Rai 4K [210]
+#EXTINF:-1,Rai 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4465258&output=16
 
-#EXTINF:-1,Nasa TV UHD [211]
+#EXTINF:-1,Nasa TV UHD
 https://endpnt.com/hls/nasa4k60/playlist.m3u8
 
-#EXTINF:-1,Museum 4K** [220]
+#EXTINF:-1,Museum 4K**
 
 
-#EXTINF:-1,MyZen 4K** [222]
+#EXTINF:-1,MyZen 4K**
 
 
-#EXTINF:-1,TravelXP 4K** [225]
+#EXTINF:-1,TravelXP 4K**
 
 
-#EXTINF:-1,HotBird 4K1 [230]
+#EXTINF:-1,HotBird 4K1
 
 
-#EXTINF:-1,FTV UHD [289]
+#EXTINF:-1,FTV UHD
 https://fashs043.cloudycdn.services/scte/pg18/playlist.m3u8
 
-#EXTINF:-1,Rai 3 TGR Valle d'Aosta [301]
+#EXTINF:-1,Rai 3 TGR Valle d'Aosta
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=32909&output=16
 
-#EXTINF:-1,Rai 3 TGR Piemonte [302]
+#EXTINF:-1,Rai 3 TGR Piemonte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=89763&output=16
 
-#EXTINF:-1,Rai 3 TGR Liguria [303]
+#EXTINF:-1,Rai 3 TGR Liguria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72920&output=16
 
-#EXTINF:-1,Rai 3 TGR Lombardia [304]
+#EXTINF:-1,Rai 3 TGR Lombardia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72916&output=16
 
-#EXTINF:-1,Rai 3 TGR Veneto [305]
+#EXTINF:-1,Rai 3 TGR Veneto
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=17190&output=16
 
-#EXTINF:-1,Rai 3 TGR Trentino Alto Adige Bolzano [306]
+#EXTINF:-1,Rai 3 TGR Trentino Alto Adige Bolzano
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=32907&output=16
 
-#EXTINF:-1,Rai 3 TGR Trentino Alto Adige Trento [307]
+#EXTINF:-1,Rai 3 TGR Trentino Alto Adige Trento
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=739016&output=16
 
-#EXTINF:-1,Rai 3 TGR Südtirol HD [308]
+#EXTINF:-1,Rai 3 TGR Südtirol HD
 https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
 
-#EXTINF:-1,Rai 3 TGR Friuli Venezia Giulia [309]
+#EXTINF:-1,Rai 3 TGR Friuli Venezia Giulia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72926&output=16
 
-#EXTINF:-1,Rai 3 TGR Furlanija Krajina (Rai 3 Bis) [310]
+#EXTINF:-1,Rai 3 TGR Furlanija Krajina (Rai 3 Bis)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=87837&output=16
 
-#EXTINF:-1,Rai 3 TGR Emilia-Romagna [311]
+#EXTINF:-1,Rai 3 TGR Emilia-Romagna
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=681&output=16
 
-#EXTINF:-1,Rai 3 TGR Toscana [312]
+#EXTINF:-1,Rai 3 TGR Toscana
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=35264&output=16
 
-#EXTINF:-1,Rai 3 TGR Marche [313]
+#EXTINF:-1,Rai 3 TGR Marche
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72386&output=16
 
-#EXTINF:-1,Rai 3 TGR Umbria [314]
+#EXTINF:-1,Rai 3 TGR Umbria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=32908&output=16
 
-#EXTINF:-1,Rai 3 TGR Lazio [315]
+#EXTINF:-1,Rai 3 TGR Lazio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72918&output=16
 
-#EXTINF:-1,Rai 3 TGR Abruzzo [316]
+#EXTINF:-1,Rai 3 TGR Abruzzo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4152&output=16
 
-#EXTINF:-1,Rai 3 TGR Molise [317]
+#EXTINF:-1,Rai 3 TGR Molise
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72387&output=16
 
-#EXTINF:-1,Rai 3 TGR Campania [318]
+#EXTINF:-1,Rai 3 TGR Campania
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4120&output=16
 
-#EXTINF:-1,Rai 3 TGR Puglia [319]
+#EXTINF:-1,Rai 3 TGR Puglia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=89765&output=16
 
-#EXTINF:-1,Rai 3 TGR Basilicata [320]
+#EXTINF:-1,Rai 3 TGR Basilicata
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4153&output=16
 
-#EXTINF:-1,Rai 3 TGR Calabria [321]
+#EXTINF:-1,Rai 3 TGR Calabria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=24271&output=16
 
-#EXTINF:-1,Rai 3 TGR Sardegna [322]
+#EXTINF:-1,Rai 3 TGR Sardegna
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=18852&output=16
 
-#EXTINF:-1,Rai 3 TGR Sicilia [323]
+#EXTINF:-1,Rai 3 TGR Sicilia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=35260&output=16
 
-#EXTINF:-1,La C sat (La C TV) [411]
+#EXTINF:-1,La C sat (La C TV)
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
 
+#EXTINF:-1,TELERADIOPACE TV (HD)
+https://live.mariatvcdn.com/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/mono.m3u8
 
-#EXTINF:-1,TELERADIOPACE TV (HD) [412]
+#EXTINF:-1,People TV (People TV-Rete 7)
+https://live.ipstream.it/etv/etv.stream/playlist.m3u8
 
+#EXTINF:-1,Telecupole
+https://5cbd3bc28341f.streamlock.net:444/cupole/live/playlist.m3u8
 
-#EXTINF:-1,People TV (People TV-Rete 7) [420]
+#EXTINF:-1,Horse TV HD
 
 
-#EXTINF:-1,Telecupole [422]
+#EXTINF:-1,Padre Pio Tv (HD)
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 
+#EXTINF:-1,Parole di Vita
+https://5db313b643fd8.streamlock.net/Paroledivita/Paroledivita/playlist.m3u8
 
-#EXTINF:-1,Horse TV HD [444]
+#EXTINF:-1,ByoBlu
+https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
 
+#EXTINF:-1,ER24
 
-#EXTINF:-1,Padre Pio Tv (HD) [445]
 
+#EXTINF:-1,TRM h24
+https://www.youtube.com/@trmh24/live
 
-#EXTINF:-1,Parole di Vita [454]
+#EXTINF:-1,Rai Radio 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162834
 
+#EXTINF:-1,Rai Radio 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162063
 
-#EXTINF:-1,ByoBlu [462]
+#EXTINF:-1,Rai Radio 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162841
 
+#EXTINF:-1,Rai Isoradio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=173875
 
-#EXTINF:-1,ER24 [518]
+#EXTINF:-1,Rai GR Parlamento
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=173879
 
+#EXTINF:-1,Rai Radio1 Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=8842124
 
-#EXTINF:-1,TRM h24 [519]
+#EXTINF:-1,Rai Radio3 Classica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=173832
 
+#EXTINF:-1,RDS
+https://stream.rds.radio/audio/rds.stream_aac/playlist.m3u8
 
-#EXTINF:-1,Rai Radio 1 [601]
+#EXTINF:-1,DimSuono Roma
+https://stream.dimensionesuonoroma.radio/audio/dsr.stream_aac64/playlist.m3u8
 
+#EXTINF:-1,RTL 102.5
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/WjpMtPyNjHwj/playlist_audio.m3u8
 
-#EXTINF:-1,Rai Radio 2 [602]
+#EXTINF:-1,RADIO ZETA
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/clhI2IJWRnn7/playlist_audio.m3u8
 
+#EXTINF:-1,RADIO FRECCIA
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/D6MENOraq6Qy/playlist_audio.m3u8
 
-#EXTINF:-1,Rai Radio 3 [603]
+#EXTINF:-1,Radio Gamma Stereo
+https://gammastereo.meway.host/stream
 
+#EXTINF:-1,Radio 105
+https://icy.unitedradio.it/Radio105.aac
 
-#EXTINF:-1,Rai Isoradio [604]
+#EXTINF:-1,Virgin Radio
+https://icy.unitedradio.it/Virgin.aac
 
+#EXTINF:-1,Radio R101
+https://icecast.unitedradio.it/r101
 
-#EXTINF:-1,Rai GR Parlamento [605]
+#EXTINF:-1,Radio Monte Carlo
+https://icy.unitedradio.it/RMC.aac
 
+#EXTINF:-1,RADIO ITALIA s.m.i.
+https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/stream02/streamPlaylist.m3u8
 
-#EXTINF:-1,Rai Radio1 Sport [606]
+#EXTINF:-1,M DUE O
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8
 
+#EXTINF:-1,CAPITAL
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/master_ma.m3u8
 
-#EXTINF:-1,Rai Radio3 Classica [607]
+#EXTINF:-1,DEEJAY
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/master_ma.m3u8
 
+#EXTINF:-1,Radio 24
+https://ilsole24ore-radio.akamaized.net/hls/live/2035301/radio24/playlist.m3u8
 
-#EXTINF:-1,RDS [608]
+#EXTINF:-1,Discoradio
+https://stream.discoradio.radio/audio/disco.stream_aac64/playlist.m3u8
 
+#EXTINF:-1,R.ONDA D'URTO
+https://hochimin.urtostream.org:8443/radiondadurto.mp3
 
-#EXTINF:-1,DimSuono Roma [609]
+#EXTINF:-1,ANNI 60
+https://ice12.fluidstream.net/ria60_mi.aac
 
+#EXTINF:-1,Radio Sintony
+https://stream5.xdevel.com/audio0s976204-1069/stream/icecast.audio
 
-#EXTINF:-1,RTL 102.5 [610]
+#EXTINF:-1,Radio Supersound
+https://sr14.inmystream.it:8002/stream
 
+#EXTINF:-1,Radio Margherita
+https://stream5.xdevel.com/audio0s975929-659/stream/icecast.audio
 
-#EXTINF:-1,RADIO ZETA [611]
+#EXTINF:-1,Radio Number One
+https://rn1.fluidstream.eu/rn1.mp3
 
+#EXTINF:-1,Radio Radio
+https://sr6.inmystream.it:18102/stream
 
-#EXTINF:-1,RADIO FRECCIA [612]
+#EXTINF:-1,Radio Maria
+https://dreamsiteradiocp5.com/proxy/rmitalia?mp=/stream
 
+#EXTINF:-1,RADIO MATER
+https://radiocast.cloud/radio/8000/radio.mp3?1587711646
 
-#EXTINF:-1,Radio Gamma Stereo [613]
+#EXTINF:-1,popolare
+https://livex.radiopopolare.it/radiopop2
 
+#EXTINF:-1,No Name Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=8842169
 
-#EXTINF:-1,Radio 105 [615]
+#EXTINF:-1,Rai Radio Tutta Italiana
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=173799
 
+#EXTINF:-1,Rai Radio Techete'
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=174078
 
-#EXTINF:-1,Virgin Radio [616]
+#EXTINF:-1,Rai Radio Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=174086
 
+#EXTINF:-1,Rai Radio Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=174083
 
-#EXTINF:-1,Radio R101 [617]
+#EXTINF:-1,L'Ora della Venezia Giulia
+http://b2.httpstream2.rai.it/venezia1_audioH24.isml/QualityLevels(128000)/manifest(format=m3u8-aapl).m3u8
 
+#EXTINF:-1,Rai Radio Slovenia
+https://b2.httpstream2.rai.it/gr_sloveno.isml/QualityLevels(128000)/manifest(format=m3u8-aapl).m3u8
 
-#EXTINF:-1,Radio Monte Carlo [618]
+#EXTINF:-1,Radio Kiss Kiss
 
 
-#EXTINF:-1,RADIO ITALIA s.m.i. [620]
+#EXTINF:-1,Radio Sportiva
 
 
-#EXTINF:-1,M DUE O [621]
+#EXTINF:-1,RVS-Accendi la Speranza
 
 
-#EXTINF:-1,CAPITAL [622]
+#EXTINF:-1,RFI Francais
 
 
-#EXTINF:-1,DEEJAY [623]
+#EXTINF:-1,Swiss Pop
 
 
-#EXTINF:-1,Radio 24 [624]
+#EXTINF:-1,Swiss Jazz
 
 
-#EXTINF:-1,Discoradio [625]
+#EXTINF:-1,Swiss Classica
 
 
-#EXTINF:-1,R.ONDA D'URTO [626]
+#EXTINF:-1,DW-FM02
 
 
-#EXTINF:-1,ANNI 60 [627]
+#EXTINF:-1,DW08
 
 
-#EXTINF:-1,Radio Sintony [628]
+#EXTINF:-1,DW09
 
 
-#EXTINF:-1,Radio Supersound [629]
+#EXTINF:-1,UNINETTUNO UNIVERSITY TV
+https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 
+#EXTINF:-1,PACI CONTEMPORARY CHANNEL
+https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
 
-#EXTINF:-1,Radio Margherita [630]
+#EXTINF:-1,Vatican Media Europa
+https://www.youtube.com/watch?v=Xbyr5eG3eoY
 
+#EXTINF:-1,VIDEOLINA
+https://5bb65e9de3fdf.streamlock.net/live/Videolina/playlist.m3u8
 
-#EXTINF:-1,Radio Number One [631]
+#EXTINF:-1,TVA Vicenza
+https://fms.telemar.it:1936/live/diretta_1/playlist.m3u8
 
+#EXTINF:-1,Arte Atelier
+https://www.youtube.com/channel/UCpnj9yMve-1ArW4RR27UERw/live
 
-#EXTINF:-1,Radio Radio [632]
+#EXTINF:-1,Arte Investimenti
+https://www.twitch.tv/arteinvestimentitv
 
-
-#EXTINF:-1,Radio Maria [633]
-
-
-#EXTINF:-1,RADIO MATER [634]
-
-
-#EXTINF:-1,popolare [635]
-
-
-#EXTINF:-1,No Name Radio [636]
-
-
-#EXTINF:-1,Rai Radio Tutta Italiana [637]
-
-
-#EXTINF:-1,Rai Radio Techete' [638]
-
-
-#EXTINF:-1,Rai Radio Kids [639]
-
-
-#EXTINF:-1,Rai Radio Live [640]
-
-
-#EXTINF:-1,L'Ora della Venezia Giulia [641]
-
-
-#EXTINF:-1,Rai Radio Slovenia [642]
-
-
-#EXTINF:-1,Radio Kiss Kiss [643]
-
-
-#EXTINF:-1,Radio Sportiva [644]
-
-
-#EXTINF:-1,RVS-Accendi la Speranza [645]
-
-
-#EXTINF:-1,RFI Francais [656]
-
-
-#EXTINF:-1,Swiss Pop [661]
-
-
-#EXTINF:-1,Swiss Jazz [662]
-
-
-#EXTINF:-1,Swiss Classica [663]
-
-
-#EXTINF:-1,DW-FM02 [667]
-
-
-#EXTINF:-1,DW08 [668]
-
-
-#EXTINF:-1,DW09 [670]
-
-
-#EXTINF:-1,UNINETTUNO UNIVERSITY TV [701]
-
-
-#EXTINF:-1,PACI CONTEMPORARY CHANNEL [809]
-
-
-#EXTINF:-1,Vatican Media Europa [815]
-
-
-#EXTINF:-1,VIDEOLINA [819]
-
-
-#EXTINF:-1,TVA Vicenza [832]
-
-
-#EXTINF:-1,Arte Atelier [863]
-
-
-#EXTINF:-1,Arte Investimenti [868]
-
-
-#EXTINF:-1,EURSAT [882]
-
+#EXTINF:-1,EURSAT
