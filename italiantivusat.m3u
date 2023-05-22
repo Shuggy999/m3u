@@ -19,7 +19,7 @@ https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 #EXTINF:-1 tvg-id="TV8.it" tvg-chno="8" tvg-logo="https://static.sky.it/images_static/tv8/loghi/tv8_logo2019.jpg" group-title="Sky Italia",TV8
 https://www.mytivu.it/Application/Channels/TV8.php
 #EXTINF:-1 tvg-id="Nove.it" tvg-chno="9" tvg-logo="https://d2v9mhsiek5lbq.cloudfront.net/eyJidWNrZXQiOiJsb21hLW1lZGlhLWl0Iiwia2V5Ijoid2FybmVydHZpdC1pbWFnZS1jOGMwNjk5ZS1iNGVhLTRlZTktYmNkNy0xZGFiNjY2M2RjYjMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjI1MH0sInBuZyI6eyJxdWFsaXR5Ijo1NSwicHJvZ3Jlc3NpdmUiOnRydWUsInBhbGV0dGUiOnRydWUsImNvbG91cnMiOjh9fX0=" group-title="broken",Nove
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="Rai4.it" tvg-chno="10" tvg-logo="https://www.raiplay.it/dl/img/2016/09/1473662992107Logo-Rai4.png" group-title="Rai",Rai 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=16
@@ -65,13 +65,13 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16
 #EXTINF:-1 tvg-id="27Twentyseven.it" tvg-chno="27" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2022/01/14/133449259-1c5cd3ae-f75d-40b2-9aee-88172bbeb10f.png" group-title="Uncatagorised",27Twentyseven HD
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ts)/index.m3u8
 #EXTINF:-1 tvg-id="DMAXItaly.it" tvg-chno="28" tvg-logo="https://d2v9mhsiek5lbq.cloudfront.net/eyJidWNrZXQiOiJsb21hLW1lZGlhLWl0Iiwia2V5IjoibW90b3J0cmVuZC1pbWFnZS1kOTBmZmFlNC00MDdlLTQ2MTItOWZjMy1hYWNmNjQ0Y2NiNTYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjI1MH0sInBuZyI6eyJxdWFsaXR5Ijo1NSwicHJvZ3Jlc3NpdmUiOnRydWUsInBhbGV0dGUiOnRydWUsImNvbG91cnMiOjh9fX0=" group-title="Uncatagorised",DMAX Italy (HD)
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="LA7d.it" tvg-chno="29" tvg-logo="https://www.tivu.tv/_common/images/loghi-canali/large/logo-la7d.png" group-title="Uncatagorised",LA7d HD
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live_1280x720_.m3u8
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-chno="30" tvg-logo="https://www.supertennis.tv/Areas/Supertennis/Images/touch-icon-iphone-retina.png" group-title="Uncatagorised",Super Tennis
 https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
 #EXTINF:-1 tvg-id="RealtimeItaly.it" tvg-chno="31" tvg-logo="https://d2v9mhsiek5lbq.cloudfront.net/eyJidWNrZXQiOiJsb21hLW1lZGlhLWl0Iiwia2V5IjoiaGd0di1pbWFnZS0zNzEzNzQ0Zi1hZWEyLTQ5NzAtOWIwYy01MTUwZmU3NGYxOGIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjI1MH0sInBuZyI6eyJxdWFsaXR5Ijo1NSwicHJvZ3Jlc3NpdmUiOnRydWUsInBhbGV0dGUiOnRydWUsImNvbG91cnMiOjh9fX0=" group-title="Uncatagorised",Realtime Italy (HD)
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="QVC(SAT).it" tvg-chno="32" tvg-logo="https://qvc.scene7.com/is/image/QVC/qvc_it_static/images/logo.png?fmt=png-alpha" group-title="Uncatagorised",QVC HD (SAT)
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/720p/720p.m3u8
 #EXTINF:-1 tvg-id="Focus.it" tvg-chno="33" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/03/30/171637742-621859dd-560c-4c8a-b800-93c1b5089b91.png" group-title="Uncatagorised",Focus HD
@@ -85,7 +85,7 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/p
 #EXTINF:-1 tvg-id="RTL102.5NEWSASPI.it" tvg-chno="37" tvg-logo="" group-title="Uncatagorised",RTL 102.5 NEWS ASPI (HD)
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 #EXTINF:-1 tvg-id="Giallo.it" tvg-chno="38" tvg-logo="https://d2v9mhsiek5lbq.cloudfront.net/eyJidWNrZXQiOiJsb21hLW1lZGlhLWl0Iiwia2V5Ijoid2FybmVydHZpdC1pbWFnZS03OGJmYTMzZC1iM2RhLTRjYjctOWQyNS1kYmY2OGYwYTFkOTAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjI1MH0sInBuZyI6eyJxdWFsaXR5Ijo1NSwicHJvZ3Jlc3NpdmUiOnRydWUsInBhbGV0dGUiOnRydWUsImNvbG91cnMiOjh9fX0=" group-title="Uncatagorised",Giallo (HD)
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="TOPcrime.it" tvg-chno="39" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/03/30/171810575-cbce70dc-ddcc-43e3-85c7-d685d64e2cdd.png" group-title="Uncatagorised",TOPcrime HD
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
 #EXTINF:-1 tvg-id="Boing.it" tvg-chno="40" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/03/30/172218792-af5ce3a2-0253-415e-830d-4c3286328ff2.png" group-title="Uncatagorised",Boing
@@ -99,31 +99,31 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=7469536&output=16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=16
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-chno="44" tvg-logo="https://www.tivu.tv/_common/images/loghi-canali/large/logo-frisbee.png" group-title="Uncatagorised",Frisbee
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="K2.it" tvg-chno="46" tvg-logo="https://www.tivu.tv/_common/images/loghi-canali/large/logo-k2.png" group-title="Uncatagorised",K2
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="Super!.it" tvg-chno="47" tvg-logo="https://www.tivu.tv/_common/images/loghi-canali/large/logo-super.png" group-title="Uncatagorised",Super!
 https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
 #EXTINF:-1 tvg-id="Arte.it" tvg-chno="48" tvg-logo=https://www.tivu.tv/_common/images/loghi-canali/large/logo-arte.png" group-title="Uncatagorised",Arte HD
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="MEZZO.it" tvg-chno="49" tvg-logo="https://www.tivu.tv/_common/images/loghi-canali/large/logo-mezzo.png" group-title="Uncatagorised",MEZZO
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="RDSSocialTV.it" tvg-chno="50" tvg-logo="https://www.tivu.tv/_common/images/loghi-canali/large/logo-rds-social-tv.png" group-title="Uncatagorised",RDS Social TV (HD)
 https://stream.rds.radio/audio/rds.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="EQUtv.it" tvg-chno="51" tvg-logo="https://www.tivu.tv/_common/images/loghi-canali/large/logo-equtv.png" group-title="Uncatagorised",EQUtv
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="ACI_sportTV.it" tvg-chno="52" tvg-logo="https://www.acisport.it/img/logo_acisport.png" group-title="Uncatagorised",ACI_sportTV
 https://g4wlk6xpy23a-hls-live.mariatvcdn.it/acisporttv/b7a3464f8e2001314de9fefebf11229d.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="FoodNetworkItaly.it" tvg-chno="53" tvg-logo="https://www.tivu.tv/_common/images/loghi-canali/large/logo-food-network-hd.png" group-title="Uncatagorised",Food Network Italy (HD)
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="WarnerTVItaly.it" tvg-chno="54" tvg-logo="https://www.tivu.tv/_common/images/loghi-canali/large/logo-warner-tv.png" group-title="Uncatagorised",WarnerTV Italy HD
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="GOLDTVSAT.it" tvg-chno="55" tvg-logo="https://www.tivu.tv/_common/images/loghi-canali/large/logo-goldtv.png" group-title="Uncatagorised",GOLD TV (SAT)
 https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
 #EXTINF:-1 tvg-id="HGTVItaly.it" tvg-chno="56" tvg-logo="https://www.tivu.tv/_common/images/loghi-canali/large/logo-hgtv.png" group-title="Uncatagorised",HGTV Italy (HD)
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="MotorTrend.it" tvg-chno="57" tvg-logo="https://www.tivu.tv/_common/images/loghi-canali/large/logo-motor-trend.png" group-title="Uncatagorised",MotorTrend (HD)
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="SoloCalcio.it" tvg-chno="58" tvg-logo="https://www.tivu.tv/_common/images/loghi-canali/large/logo-si-solo-calcio.png" group-title="Uncatagorised",Solo Calcio
 https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsItalian.it" tvg-chno="59" tvg-logo="https://yt3.googleusercontent.com/tjRwkj8sFk3cAX_kwS1hjPECbFIqoc6e7cJRb0-A50V0fBYLeYeWSxv72GIhXt8V1-mKSstj=s200" group-title="Uncatagorised",Euronews Italian
@@ -147,7 +147,7 @@ https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ew)/mani
 #EXTINF:-1 tvg-id="France24(inEnglish).it" tvg-chno="69" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNNrxL3Bam46oeoN-tJlZBWkunod2b7AUNRasWbrA=s400" group-title="Uncatagorised",France 24 HD (in English)
 https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg/live
 #EXTINF:-1 tvg-id="BBCWorldNews.it" tvg-chno="70" tvg-logo="https://www.bbcwwpartners.com/images/travel/wntp-logo-wn.png" group-title="Uncatagorised",BBC World News
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.it" tvg-chno="71" tvg-logo="https://yt3.googleusercontent.com/YKrh5sIYpesEIHbjfgqwFjFx3ZgIjM_zak2z0LO8QENSgrmgKBes1m65POj9jkmzm0qoKwgl=s400" group-title="Uncatagorised",Al Jazeera English HD
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.it" tvg-chno="72" tvg-logo="https://yt3.googleusercontent.com/4FK_4c1SOUGyQXgvLZ7WDJXB-sE8vVntcrTI7PYCiYkjkftELWfuRiQW_-1w6_uPbSY6T6ij=s400" group-title="Uncatagorised",TRT World HD
@@ -165,11 +165,11 @@ https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="EspressoTV.it" tvg-chno="78" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOP5FBL9DDZx0akBYls2Fc3DjktcTmDhovE2E8Pop8=s400" group-title="Uncatagorised",Espresso TV
 https://www.youtube.com/watch?v=6LzcbC02wJI
 #EXTINF:-1 tvg-id="Sonlife.it" tvg-chno="79" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHId1K33a35A5zWFGm8CpjLKOZ9z7GYgWUQUfuEpo&s" group-title="Uncatagorised",Sonlife
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="CNBC.it" tvg-chno="81" tvg-logo="https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif" group-title="Uncatagorised",CNBC HD
 http://ott-cdn.ucom.am/s65/index.m3u8
 #EXTINF:-1 tvg-id="BloombergEuropeanTV.it" tvg-chno="82" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQjNOOC1-NEsk4y3kyDyZSXUk-f1IrgiotGzKAkMif&s" group-title="Uncatagorised",Bloomberg European TV
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="i24NewsEnglish.it" tvg-chno="83" tvg-logo="" group-title="Uncatagorised",i24News HD English
 https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="i24NewsFrench.it" tvg-chno="84" tvg-logo="" group-title="Uncatagorised",i24News HD French
@@ -203,10 +203,10 @@ https://www.youtube.com/watch?v=Cnjs83yowUM
 #EXTINF:-1 tvg-id="KBSWORLD.it" tvg-chno="91" tvg-logo="https://world.kbs.co.kr/service/common/images/kbsworldlogo_png.png" group-title="Uncatagorised",KBS WORLD HD
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-id="CCTV4E.it" tvg-chno="92" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586736612_798.png" group-title="Uncatagorised",CCTV 4E
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="SMTvSanMarino.it" tvg-chno="93" tvg-logo="https://www.sanmarinortv.sm/assets/frontend/img/logo-90.png?v55" group-title="Uncatagorised",SMTv San Marino HD
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="RaiRadio2Visual.it" tvg-chno="202" tvg-logo="https://www.raiplay.it/dl/img/2020/09/25/1601019883430_radio-23x.png" group-title="Uncatagorised",Rai Radio 2 Visual
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=16
@@ -216,13 +216,13 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4465258&output=16
 #EXTINF:-1 tvg-id="NasaTVU.it" tvg-chno="211" tvg-logo="https://www.tivu.tv/_common/images/loghi-canali/large/logo-nasa-tv.png" group-title="Uncatagorised",Nasa TV UHD
 https://endpnt.com/hls/nasa4k60/playlist.m3u8
 #EXTINF:-1 tvg-id="Museum4K**.it" tvg-chno="220" tvg-logo="" group-title="Uncatagorised",Museum 4K**
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="MyZen4K**.it" tvg-chno="222" tvg-logo="" group-title="Uncatagorised",MyZen 4K**
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="TravelXP4K**.it" tvg-chno="225" tvg-logo="" group-title="Uncatagorised",TravelXP 4K**
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="HotBird4K1.it" tvg-chno="230" tvg-logo="" group-title="Uncatagorised",HotBird 4K1
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="FTV.it" tvg-chno="289" tvg-logo="https://www.fashiontvitaliaofficial.it/img/fashiontvitaliaofficial.png" group-title="Uncatagorised",FTV UHD
 https://fashs043.cloudycdn.services/scte/pg18/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai3TGRValled'Aosta.it" tvg-chno="301" tvg-logo="https://www.raiplay.it/dl/img/2016/09/1473662801274Logo-Rai3.png" group-title="Rai",Rai 3 TGR Valle d'Aosta
@@ -302,7 +302,7 @@ https://live.ipstream.it/etv/etv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecupole.it" tvg-chno="422" tvg-logo="https://www.telecupole.com/wp-content/themes/ndg-quantum/assets/images/white.png" group-title="Uncatagorised",Telecupole
 https://5cbd3bc28341f.streamlock.net:444/cupole/live/playlist.m3u8
 #EXTINF:-1 tvg-id="HorseTV.it" tvg-chno="444" tvg-logo="" group-title="Uncatagorised",Horse TV HD
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="PadrePioTV.it" tvg-chno="445" tvg-logo="https://www.padrepio.tv/wp-content/uploads/2022/04/Saverio-Padre-Pio-TV.png" group-title="Uncatagorised",Padre Pio TV (HD)
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="ParolediVita.it" tvg-chno="454" tvg-logo="https://paroledivita.org/images/logo/favicon_blue_1C91F7.png" group-title="Uncatagorised",Parole di Vita
@@ -310,7 +310,7 @@ https://5db313b643fd8.streamlock.net/Paroledivita/Paroledivita/playlist.m3u8
 #EXTINF:-1 tvg-id="ByoBlu.it" tvg-chno="462" tvg-logo="https://www.byoblu.com/wp-content/uploads/2022/03/byoblu_logo_home_sito-450-e1647542015745.png" group-title="Uncatagorised",ByoBlu
 https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
 #EXTINF:-1 tvg-id="ER24.it" tvg-chno="518" tvg-logo="https://www.lyngsat.com/logo/tv/ee/emilia-romagna-24-it.png" group-title="Uncatagorised",ER24
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="TRMh24.it" tvg-chno="519" tvg-logo="https://www.trmtv.it/wp-content/themes/trmtv/styles/default/img/logo_trm_site_thin.png" group-title="Uncatagorised",TRM h24
 https://www.youtube.com/@trmh24/live
 #EXTINF:-1 tvg-id="RaiRadio1.it" tvg-chno="601" tvg-logo="" group-title="Uncatagorised",Rai Radio 1
@@ -406,25 +406,25 @@ http://b2.httpstream2.rai.it/venezia1_audioH24.isml/QualityLevels(128000)/manife
 #EXTINF:-1 tvg-id="RaiRadioSlovenia.it" tvg-chno="642" tvg-logo="" group-title="Uncatagorised",Rai Radio Slovenia
 https://b2.httpstream2.rai.it/gr_sloveno.isml/QualityLevels(128000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-id="RadioKissKiss.it" tvg-chno="643" tvg-logo="" group-title="Uncatagorised",Radio Kiss Kiss
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="RadioSportiva.it" tvg-chno="644" tvg-logo="" group-title="Uncatagorised",Radio Sportiva
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="RVS-AccendilaSperanza.it" tvg-chno="645" tvg-logo="" group-title="Uncatagorised",RVS-Accendi la Speranza
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="RFIFrancais.it" tvg-chno="656" tvg-logo="" group-title="Uncatagorised",RFI Francais
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="SwissPop.it" tvg-chno="661" tvg-logo="" group-title="Uncatagorised",Swiss Pop
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="SwissJazz.it" tvg-chno="662" tvg-logo="" group-title="Uncatagorised",Swiss Jazz
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="SwissClassica.it" tvg-chno="663" tvg-logo="" group-title="Uncatagorised",Swiss Classica
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="DW-FM02.it" tvg-chno="667" tvg-logo="" group-title="Uncatagorised",DW-FM02
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="DW08.it" tvg-chno="668" tvg-logo="" group-title="Uncatagorised",DW08
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="DW09.it" tvg-chno="670" tvg-logo="" group-title="Uncatagorised",DW09
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="UNINETTUNOUNIVERSITYTV.it" tvg-chno="701" tvg-logo="" group-title="Uncatagorised",UNINETTUNO UNIVERSITY TV
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 #EXTINF:-1 tvg-id="PACICONTEMPORARYCHANNEL.it" tvg-chno="809" tvg-logo="" group-title="Uncatagorised",PACI CONTEMPORARY CHANNEL
@@ -440,4 +440,4 @@ https://www.youtube.com/channel/UCpnj9yMve-1ArW4RR27UERw/live
 #EXTINF:-1 tvg-id="ArteInvestimenti.it" tvg-chno="868" tvg-logo="" group-title="Uncatagorised",Arte Investimenti
 https://www.twitch.tv/arteinvestimentitv
 #EXTINF:-1 tvg-id="EURSAT.it" tvg-chno="882" tvg-logo="" group-title="Uncatagorised",EURSAT
-https://www.example.com/broken.m3u
+https://video.wixstatic.com/video/36629e_a6931126653e4a0eb21b205230978021/480p/mp4/file.mp4
