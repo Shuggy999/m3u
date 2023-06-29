@@ -158,7 +158,7 @@ https://www.example.com/test.m3u8
 https://www.example.com/test.m3u8
 
 #EXTINF:-1 tvg-id="RDSSocialTV.it" tvg-logo="https://www.tivu.tv/_common/images/loghi-canali/large/logo-rds-social-tv.png" group-title="Uncatagorised",RDS Social TV (HD)
-https://stream.rds.radio/audio/rds.stream_aac/playlist.m3u8
+https://stream.rdstv.radio/index.m3u8
 
 #EXTINF:-1 tvg-id="EQUtv.it" tvg-logo="https://www.tivu.tv/_common/images/loghi-canali/large/logo-equtv.png" group-title="Uncatagorised",EQUtv
 https://www.example.com/test.m3u8
