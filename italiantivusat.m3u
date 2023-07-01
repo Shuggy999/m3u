@@ -38,7 +38,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=16
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
 
 #EXTINF:-1 tvg-id="La5.it" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/03/30/170626282-d8fef159-5edc-49cb-a463-1489d44d6639.png" group-title="Uncatagorised",La5 HD
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
 
 #EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://www.raiplay.it/dl/img/2021/11/19/1637322377457_logo-rai5.png" group-title="Uncatagorised",Rai 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
