@@ -69,7 +69,7 @@ https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(lb)/index
 
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-logo="https://www.raiplay.it/dl/img/2021/11/19/1637310367694_1579883330343_rai-sport.png" group-title="Uncatagorised",Rai Sport HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358071&output=16
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16
 
 #EXTINF:-1 tvg-id="VH1.it" tvg-logo="https://www.tivu.tv/_common/images/loghi-canali/large/logo-vh1.png" group-title="Uncatagorised",VH1 HD
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
