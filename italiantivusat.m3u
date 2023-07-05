@@ -136,7 +136,7 @@ https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(la)/index
 
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-logo="https://www.raiplay.it/dl/img/2021/11/19/1637310352874_1579882960255_rai-gulp.png" group-title="Uncatagorised",Rai Gulp HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=7469536&output=16
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=16
 
 #EXTINF:-1 tvg-id="RaiYoYo.it" tvg-logo="https://www.raiplay.it/dl/img/2021/11/19/1637309909658_1579882398754_rai-yoyo.png" group-title="Uncatagorised",Rai YoYo HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
