@@ -28,7 +28,7 @@ https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 https://www.mytivu.it/Application/Channels/TV8.php
 
 #EXTINF:-1 tvg-id="Nove.it" tvg-logo="https://d2v9mhsiek5lbq.cloudfront.net/eyJidWNrZXQiOiJsb21hLW1lZGlhLWl0Iiwia2V5Ijoid2FybmVydHZpdC1pbWFnZS1jOGMwNjk5ZS1iNGVhLTRlZTktYmNkNy0xZGFiNjY2M2RjYjMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjI1MH0sInBuZyI6eyJxdWFsaXR5Ijo1NSwicHJvZ3Jlc3NpdmUiOnRydWUsInBhbGV0dGUiOnRydWUsImNvbG91cnMiOjh9fX0=" group-title="broken",Nove
-https://www.example.com/test.m3u8
+https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rai4.it" tvg-logo="https://www.raiplay.it/dl/img/2016/09/1473662992107Logo-Rai4.png" group-title="Rai",Rai 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
@@ -93,7 +93,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ts)/index.m3u8
 
 #EXTINF:-1 tvg-id="DMAXItaly.it" tvg-logo="https://d2v9mhsiek5lbq.cloudfront.net/eyJidWNrZXQiOiJsb21hLW1lZGlhLWl0Iiwia2V5IjoibW90b3J0cmVuZC1pbWFnZS1kOTBmZmFlNC00MDdlLTQ2MTItOWZjMy1hYWNmNjQ0Y2NiNTYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjI1MH0sInBuZyI6eyJxdWFsaXR5Ijo1NSwicHJvZ3Jlc3NpdmUiOnRydWUsInBhbGV0dGUiOnRydWUsImNvbG91cnMiOjh9fX0=" group-title="Uncatagorised",DMAX Italy (HD)
-https://www.example.com/test.m3u8
+https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LA7d.it" tvg-logo="https://www.tivu.tv/_common/images/loghi-canali/large/logo-la7d.png" group-title="Uncatagorised",LA7d HD
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live_1280x720_.m3u8
@@ -102,7 +102,7 @@ https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live_1280x720_.m3u8
 https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
 
 #EXTINF:-1 tvg-id="RealtimeItaly.it" tvg-logo="https://d2v9mhsiek5lbq.cloudfront.net/eyJidWNrZXQiOiJsb21hLW1lZGlhLWl0Iiwia2V5IjoiaGd0di1pbWFnZS0zNzEzNzQ0Zi1hZWEyLTQ5NzAtOWIwYy01MTUwZmU3NGYxOGIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjI1MH0sInBuZyI6eyJxdWFsaXR5Ijo1NSwicHJvZ3Jlc3NpdmUiOnRydWUsInBhbGV0dGUiOnRydWUsImNvbG91cnMiOjh9fX0=" group-title="Uncatagorised",Realtime Italy (HD)
-https://www.example.com/test.m3u8
+https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="QVC(SAT).it" tvg-logo="https://qvc.scene7.com/is/image/QVC/qvc_it_static/images/logo.png?fmt=png-alpha" group-title="Uncatagorised",QVC HD (SAT)
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/720p/720p.m3u8
@@ -123,7 +123,7 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/p
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 
 #EXTINF:-1 tvg-id="Giallo.it" tvg-logo="https://d2v9mhsiek5lbq.cloudfront.net/eyJidWNrZXQiOiJsb21hLW1lZGlhLWl0Iiwia2V5Ijoid2FybmVydHZpdC1pbWFnZS03OGJmYTMzZC1iM2RhLTRjYjctOWQyNS1kYmY2OGYwYTFkOTAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjI1MH0sInBuZyI6eyJxdWFsaXR5Ijo1NSwicHJvZ3Jlc3NpdmUiOnRydWUsInBhbGV0dGUiOnRydWUsImNvbG91cnMiOjh9fX0=" group-title="Uncatagorised",Giallo (HD)
-https://www.example.com/test.m3u8
+https://amg16146-wbdi-amg16146c5-samsung-it-1838.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-giallo-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TOPcrime.it" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/03/30/171810575-cbce70dc-ddcc-43e3-85c7-d685d64e2cdd.png" group-title="Uncatagorised",TOPcrime HD
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
@@ -143,10 +143,10 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=16
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=16
 
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-logo="https://www.tivu.tv/_common/images/loghi-canali/large/logo-frisbee.png" group-title="Uncatagorised",Frisbee
-https://www.example.com/test.m3u8
+https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="K2.it" tvg-logo="https://www.tivu.tv/_common/images/loghi-canali/large/logo-k2.png" group-title="Uncatagorised",K2
-https://www.example.com/test.m3u8
+https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Super!.it" tvg-logo="https://www.tivu.tv/_common/images/loghi-canali/large/logo-super.png" group-title="Uncatagorised",Super!
 https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
@@ -167,19 +167,19 @@ https://www.example.com/test.m3u8
 https://g4wlk6xpy23a-hls-live.mariatvcdn.it/acisporttv/b7a3464f8e2001314de9fefebf11229d.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetworkItaly.it" tvg-logo="https://www.tivu.tv/_common/images/loghi-canali/large/logo-food-network-hd.png" group-title="Uncatagorised",Food Network Italy (HD)
-https://www.example.com/test.m3u8
+https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WarnerTVItaly.it" tvg-logo="https://www.tivu.tv/_common/images/loghi-canali/large/logo-warner-tv.png" group-title="Uncatagorised",WarnerTV Italy HD
-https://www.example.com/test.m3u8
+https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GOLDTVSAT.it" tvg-logo="https://www.tivu.tv/_common/images/loghi-canali/large/logo-goldtv.png" group-title="Uncatagorised",GOLD TV (SAT)
 https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HGTVItaly.it" tvg-logo="https://www.tivu.tv/_common/images/loghi-canali/large/logo-hgtv.png" group-title="Uncatagorised",HGTV Italy (HD)
-https://www.example.com/test.m3u8
+https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MotorTrend.it" tvg-logo="https://www.tivu.tv/_common/images/loghi-canali/large/logo-motor-trend.png" group-title="Uncatagorised",MotorTrend (HD)
-https://www.example.com/test.m3u8
+https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SoloCalcio.it" tvg-logo="https://www.tivu.tv/_common/images/loghi-canali/large/logo-si-solo-calcio.png" group-title="Uncatagorised",Solo Calcio
 https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
@@ -303,7 +303,6 @@ https://www.example.com/test.m3u8
 
 #EXTINF:-1 tvg-id="SMTvSanMarino.it" tvg-logo="https://www.sanmarinortv.sm/assets/frontend/img/logo-90.png?v55" group-title="Uncatagorised",SMTv San Marino HD
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
-https://www.example.com/test.m3u8
 
 #EXTINF:-1 tvg-id="RaiRadio2Visual.it" tvg-logo="https://www.raiplay.it/dl/img/2020/09/25/1601019883430_radio-23x.png" group-title="Uncatagorised",Rai Radio 2 Visual
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
