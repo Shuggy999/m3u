@@ -13,13 +13,16 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=16
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=16
 
 #EXTINF:-1 tvg-id="Rete4.it" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/03/30/171446419-0fbcd8b0-aa93-43ad-9122-11eab918a692.png" group-title="Mediaset",Rete 4 HD
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="Canale5.it" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/03/30/164049140-2971546e-5c08-4907-a707-a9a4645fe34d.png" group-title="Mediaset",Canale 5 HD
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="Italia1.it" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/03/30/165137035-c31da391-661b-4321-b62a-5be092fb9e6e.png" group-title="Mediaset",Italia1 HD
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="LA7.it" tvg-logo="https://www.la7.it/sites/default/themes/la7/newcss/assets/img/la7_logo.png" group-title="LA7",LA7 HD
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
@@ -35,10 +38,12 @@ https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=16
 
 #EXTINF:-1 tvg-id="Iris.it" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/03/30/172013080-6fa2f27a-2a1f-43e9-86d0-ebe24e093ffe.png" group-title="Uncatagorised",Iris HD
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="La5.it" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/03/30/170626282-d8fef159-5edc-49cb-a463-1489d44d6639.png" group-title="Uncatagorised",La5 HD
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://www.raiplay.it/dl/img/2021/11/19/1637322377457_logo-rai5.png" group-title="Uncatagorised",Rai 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
@@ -53,19 +58,22 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=16
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=16
 
 #EXTINF:-1 tvg-id="MediasetItalia2.it" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/03/30/170519488-02d50d65-cc5f-432e-acf5-83288c3a93ae.png" group-title="Uncatagorised",Mediaset Italia2 HD
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/03/30/171152455-cd94ebc1-6ff6-468b-987b-87f6b3e41325.png" group-title="Uncatagorised",Mediaset Extra HD
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="TV2000.it" tvg-logo="https://www.tv2000.it/wp-content/themes/tv2000/assets/images/apple-icon-180x180.png" group-title="Uncatagorised",TV2000 HD
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
 #EXTINF:-1 tvg-id="cielo.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/61/Cielo_TV_logo.svg/320px-Cielo_TV_logo.svg.png" group-title="Uncatagorised",cielo HD
-https://mytivu.it/Application/Channels/Cielo.php
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2022/05/09/141338883-8cc4efcb-858d-45b2-ac66-11758346d745.png" group-title="Uncatagorised",20 Mediaset HD
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-logo="https://www.raiplay.it/dl/img/2021/11/19/1637310367694_1579883330343_rai-sport.png" group-title="Uncatagorised",Rai Sport HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
@@ -83,7 +91,8 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=16
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
 
 #EXTINF:-1 tvg-id="TGCOM24.it" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/03/30/172718055-1ace4a32-2ded-45bd-b545-a02691db50e8.png" group-title="Uncatagorised",TGCOM24 HD
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://www.raiplay.it/dl/img/2021/11/19/1637322361853_logo-raiscuola.png" group-title="Uncatagorised",Rai Scuola HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
@@ -108,10 +117,12 @@ https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/720p/720p.m3u8
 
 #EXTINF:-1 tvg-id="Focus.it" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/03/30/171637742-621859dd-560c-4c8a-b800-93c1b5089b91.png" group-title="Uncatagorised",Focus HD
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="Cine34.it" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/03/30/170905921-2bfee29f-6272-4f77-b631-7223950223da.png" group-title="Uncatagorised",Cine34 HD
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-logo="https://www.radioitalia.it/images/logo-radioitalia.png" group-title="Uncatagorised",Radio Italia TV HD
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
@@ -126,13 +137,16 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/p
 https://amg16146-wbdi-amg16146c5-samsung-it-1838.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-giallo-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TOPcrime.it" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/03/30/171810575-cbce70dc-ddcc-43e3-85c7-d685d64e2cdd.png" group-title="Uncatagorised",TOPcrime HD
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="Boing.it" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/03/30/172218792-af5ce3a2-0253-415e-830d-4c3286328ff2.png" group-title="Uncatagorised",Boing
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2022/06/15/131147655-eae61260-e523-46fb-ba51-bb0277e3b06b.png" group-title="Uncatagorised",Cartoonito
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(la)/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-logo="https://www.raiplay.it/dl/img/2021/11/19/1637310352874_1579882960255_rai-gulp.png" group-title="Uncatagorised",Rai Gulp HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
@@ -206,10 +220,12 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/pl
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 
 #EXTINF:-1 tvg-id="RADIOMONTECARLO.it" tvg-logo="https://www.radiomontecarlo.net/images/logos/1/logo_white.jpg" group-title="Uncatagorised",RADIO MONTE CARLO
-https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(bb)/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="VIRGINRADIO.it" tvg-logo="https://www.virginradio.it/images/logos/2/logo_colored.jpg" group-title="Uncatagorised",VIRGIN RADIO
-https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ew)/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="France24(inEnglish).it" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNNrxL3Bam46oeoN-tJlZBWkunod2b7AUNRasWbrA=s400" group-title="Uncatagorised",France 24 HD (in English)
 https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg/live
@@ -245,10 +261,10 @@ https://www.youtube.com/watch?v=6LzcbC02wJI
 https://www.example.com/test.m3u8
 
 #EXTINF:-1 tvg-id="CNBC.it" tvg-logo="https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif" group-title="Uncatagorised",CNBC HD
-http://ott-cdn.ucom.am/s65/index.m3u8
+https://www.example.com/test.m3u8
 
 #EXTINF:-1 tvg-id="BloombergEuropeanTV.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQjNOOC1-NEsk4y3kyDyZSXUk-f1IrgiotGzKAkMif&s" group-title="Uncatagorised",Bloomberg European TV
-https://www.example.com/test.m3u8
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
 #EXTINF:-1 tvg-id="i24NewsEnglish.it" tvg-logo="" group-title="Uncatagorised",i24News HD English
 https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_0/chunklist.m3u8
