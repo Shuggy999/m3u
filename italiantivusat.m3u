@@ -178,7 +178,7 @@ https://stream.rdstv.radio/index.m3u8
 https://www.example.com/test.m3u8
 
 #EXTINF:-1 tvg-id="ACI_sportTV.it" tvg-logo="https://www.acisport.it/img/logo_acisport.png" group-title="Uncatagorised",ACI_sportTV
-https://g4wlk6xpy23a-hls-live.mariatvcdn.it/acisporttv/b7a3464f8e2001314de9fefebf11229d.sdp/playlist.m3u8
+https://play.cdn.enetres.net/79CE6A0C6AF94F7EB0F93BD0DE2949EF029/02279/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetworkItaly.it" tvg-logo="https://www.tivu.tv/_common/images/loghi-canali/large/logo-food-network-hd.png" group-title="Uncatagorised",Food Network Italy (HD)
 https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
@@ -243,7 +243,7 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 #EXTINF:-1 tvg-id="UATV.it" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032021/uatv.png" group-title="Uncatagorised",UATV
-http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8
+https://freedom.cdn-03.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 
 #EXTINF:-1 tvg-id="France24(enFrancais).it" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMKSXZrNZje6psD47Xbkj3KRqiiTHRjufyCZvMUEQ=s400" group-title="Uncatagorised",France 24 HD (en Francais)
 https://www.youtube.com/channel/UCCCPCZNChQdGa9EkATeye4g/live
