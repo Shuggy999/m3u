@@ -1,0 +1,5 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ComoTVLiveMatch.it" tvg-logo="https://comofootball.com/wp-content/uploads/2019/08/Asset-1.png" group-title="Rai",Rai 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://como.mocdn.tv/out/v1/aae5f979c22c4c939dcacd68e8aa5fea/index.m3u8
