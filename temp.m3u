@@ -6,4 +6,4 @@ https://como.mocdn.tv/out/v1/aae5f979c22c4c939dcacd68e8aa5fea/index.m3u8
 
 #EXTINF:-1 tvg-id="SaintPats.it" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/St._Patrick%27s_Athletic_F.C._crest.png" group-title="Temporary",Saint Pats (manual)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-https://spottfai.akamaized.net/hls/live/2029019/3920009_4501363/hdntl=exp=1712076348~acl=%2f*~data=hdntl~hmac=ca11e0f119993baa3a716f37cb4b95fa5925978343fef91747ea18769ca9a9e2/4501363_4000.m3u8?cid=34263&mid=46547823&ecid=4501363&pid=5&dtid=1&sid=338772889824&gc=NgA&gsd=TGA&grm=1&content=1734355
+https://spottfai.akamaized.net/hls/live/2029019/3920009_4501363/master.m3u8?cid=34263&mid=46547823&ecid=4501363&pid=5&dtid=1&sid=952324941411&gc=iho&gsd=8Ho&grm=1&hdnea=exp=1711990135~acl=*/hls/live/2029019*/3920009_4501363/*~hmac=fbba31ec34f624097cdcdab541734bdfb546ab8da0436f1c472a20b7f1db8070&content=1734355
