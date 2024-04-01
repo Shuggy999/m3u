@@ -1,5 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ComoTVLiveMatch.it" tvg-logo="https://comofootball.com/wp-content/uploads/2019/08/Asset-1.png" group-title="Rai",Rai 1 HD
+#EXTINF:-1 tvg-id="ComoTVLiveMatch.it" tvg-logo="https://comofootball.com/wp-content/uploads/2019/08/Asset-1.png" group-title="Temporary",Como Live Match (manual)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://como.mocdn.tv/out/v1/aae5f979c22c4c939dcacd68e8aa5fea/index.m3u8
+
+#EXTINF:-1 tvg-id="SaintPats.it" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/St._Patrick%27s_Athletic_F.C._crest.png" group-title="Temporary",Saint Pats (manual)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+'https://spottfai.akamaized.net/hls/live/2029019/3920009_4501363/master.m3u8?cid=34263&mid=46547823&ecid=4501363&pid=5&dtid=1&sid=188890752845&gc=MlA&gsd=SDA&grm=1&hdnea=exp=1711989562~acl=*/hls/live/2029019*/3920009_4501363/*~hmac=b37b8d9e8fe56c7803ef0ee233ce7dec521d65e1fcb09eb8a2e1706b6526a294'
