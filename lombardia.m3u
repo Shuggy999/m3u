@@ -1,0 +1,168 @@
+﻿#EXTINF
+
+# EXTINF:-1 tvg-chno="10",Telelombardia HD
+
+# #EXTINF:-1 tvg-chno="11",Antenna 3 HD
+# # 
+# EXTINF:-1 tvg-chno="12",TopCalcio24 HD
+
+#EXTINF:-1 tvg-chno="13",TELECITY LOMBARDIA
+https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="14",Espansione Tv HD
+https://srvx1.selftv.video/espansione/smil:live/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="15",BERGAMO TV
+https://livestream.com/accounts/245066/events/3063596
+
+#EXTINF:-1 tvg-chno="16",TT-TELETUTTO
+https://600f07e114306.streamlock.net/TT_TELETUTTO/smil:TT.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="17",TELECOLOR
+https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="18",TELENOVA HD
+https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="19",CREMONA1
+https://cdn2.streamshow.it/cloud-cremona1/cremona1/playlist.m3u8
+
+# EXTINF:-1 tvg-chno="71",CANALE ITALIA 95
+
+#EXTINF:-1 tvg-chno="73",RADIO BRUNO Lombardia
+https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
+
+# EXTINF:-1 tvg-chno="74",Primanews Lombardia
+
+#EXTINF:-1 tvg-chno="75",UNICA LECCO
+https://livestream.com/accounts/245066/events/11080661
+
+#EXTINF:-1 tvg-chno="76",Telelibertà HD
+https://streaming.liberta.it/hls/liberta.m3u8
+
+#EXTINF:-1 tvg-chno="77",CANALE ITALIA 77
+https://liveac115.b-cdn.net/canale1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="78",Milano Pavia TV
+https://59d7d6f47d7fc.streamlock.net/telepavia/telepavia/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="79",ONE TV
+https://media2.streambrothers.com:19360/8052/8052.m3u8
+
+# EXTINF:-1 tvg-chno="80",LOMBARDIA TV80
+
+#EXTINF:-1 tvg-chno="81",TeleBoario
+https://router.xdevel.com/video0s976425-1205/stream/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-chno="82",TELEREPORTER
+https://5f22d76e220e1.streamlock.net/telereporter/telereporter/playlist.m3u8
+
+# EXTINF:-1 tvg-chno="83",PIU VALLI TV
+
+#EXTINF:-1 tvg-chno="84",Antenna 2
+https://str42.fluid.stream/Antenna2/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="85",TSN
+https://189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_3d0ad040b69311edbdfe833877bb03e2/index.m3u8
+
+# EXTINF:-1 tvg-chno="86",RETE 7
+
+# EXTINF:-1 tvg-chno="86",PIEMONTE+
+
+# EXTINF:-1 tvg-chno="87",VIDEOSTAR
+
+#EXTINF:-1 tvg-chno="88",RETE 55
+https://live1.giocabet.tv/stream/6/index.m3u8
+
+# EXTINF:-1 tvg-chno="89",Tele Ponte di Legno
+
+# EXTINF:-1 tvg-chno="90",VALPADANA TV
+
+# EXTINF:-1 tvg-chno="91",TRS
+
+# EXTINF:-1 tvg-chno="92",ITALIA 8 PRESTIGE
+
+#EXTINF:-1 tvg-chno="93",70-80.tv
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="94",SEILATV Bergamo HD
+https://www.twitch.tv/seilatvcanale94
+
+# EXTINF:-1 tvg-chno="95",Studio 1
+
+#EXTINF:-1 tvg-chno="96",SUPERTV
+https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8
+
+# EXTINF:-1 tvg-chno="97",VALENZA TV
+
+# EXTINF:-1 tvg-chno="98",TELECLUSONE
+
+# EXTINF:-1 tvg-chno="99",TELESTELLA
+
+#EXTINF:-1 tvg-chno="110",TELESHOPPING
+https://fms.premio.link/teleshopping/playlist.m3u8
+
+# EXTINF:-1 tvg-chno="111",MY LIVIGNO TV
+
+#EXTINF:-1 tvg-chno="112",CAFE TV24
+https://srvx1.selftv.video/cafe/smil:live/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="113",GIOCABET.TV
+https://live1.giocabet.tv/stream/1/index.m3u8
+
+#EXTINF:-1 tvg-chno="114",TVS Televallassina
+https://www.twitch.tv/trainstv_tvsbahn
+
+# EXTINF:-1 tvg-chno="115",Radio Millennium TV
+
+# EXTINF:-1 tvg-chno="116",PIU VALLI TV2
+
+# EXTINF:-1 tvg-chno="117",CANALE 117
+
+# EXTINF:-1 tvg-chno="118",VIDEOBRESCIA
+
+#EXTINF:-1 tvg-chno="119",TELELEONESSA
+https://59d7d6f47d7fc.streamlock.net/teleleonessa/teleleonessa/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="176",WellTV
+https://www.youtube.com/watch?v=a4ZaVGiF7X8
+
+# EXTINF:-1 tvg-chno="177",MY LIVIGNO TV NEWS
+
+# EXTINF:-1 tvg-chno="178",CANALE 178
+
+# EXTINF:-1 tvg-chno="179",GALAXY TV 179
+
+# EXTINF:-1 tvg-chno="180",QTV
+
+#EXTINF:-1 tvg-chno="181",E LIVE
+https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
+
+# EXTINF:-1 tvg-chno="183",GEA TV
+
+# EXTINF:-1 tvg-chno="184",Smart tv
+
+# EXTINF:-1 tvg-chno="185",Life Zone
+
+#EXTINF:-1 tvg-chno="186",STUDIO+ MARCHE
+https://5a1178b42cc03.streamlock.net:443/studiopiutv/studiopiutv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="188",PRIMANTENNA
+https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="191",MILANOW
+https://www.youtube.com/watch?v=V5JpPj68T4A
+
+# EXTINF:-1 tvg-chno="271",RDS Social
+
+#EXTINF:-1 tvg-chno="277",TELEMANTOVA
+https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="351",70-80.it
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="352",radio4you TV 2
+https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
+
+#EXTINF:-1 tvg-chno="99999",ST1 HEVC MAIN10 TEST
+https://cdn.dday.it/system/uploads/news/main_image/33704/main_testape.jpg
