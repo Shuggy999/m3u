@@ -1,0 +1,42 @@
+#EXTM3U
+
+#EXTINF:-1,CH - SRF Eins (geoblocked)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=UNKNOWN:5b9fa46093deb91e7414f643b3d6fcf8
+https://srf1-euwe.akamaized.net/45544d27-2bc0-42e4-80ea-da4eca95d7f7/srf1.ism/manifest(format=mpd-time-csf,encryption=cenc,filter=nodvr)
+
+#EXTINF:-1,CH - SRF Info (geoblocked)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=UNKNOWN:5b9fa46093deb91e7414f643b3d6fcf8
+https://srfinfo-euwe.akamaized.net/e539fc6a-aa1b-4c3d-a60a-a6ff51eb8365/srfinfo.ism/manifest(format=mpd-time-csf,encryption=cenc)
+
+#EXTINF:-1,CH - SRF Zwei (geoblocked)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=UNKNOWN:9fc9f2d2fd398f2291eeccff6094ff30
+https://srfzwei-euwe.akamaized.net/c62b3d7e-b876-4400-99ad-82e2d7c4273d/srf2.ism/manifest(format=mpd-time-csf,encryption=cenc,filter=nodvr)
+
+#EXTINF:-1,CH - RTS 1 (geoblocked)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=UNKNOWN:a12a12dbb507daa5143f440c2eb61c5b
+https://rtsun-euwe.akamaized.net/01df18e0-2e99-4fec-a3c5-24ec39a33ba3/rts1.ism/manifest(format=mpd-time-csf,encryption=cenc)
+
+#EXTINF:-1,CH - RTS 2 (geoblocked)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=UNKNOWN:de64a7130366442711eec0db156e3e70
+https://rtsdeux-euwe.akamaized.net/61858eb4-409e-4fa7-ae74-e0e81531084f/rts2.ism/manifest(format=mpd-time-csf,encryption=cenc)
+
+# #EXTINF:-1,CH - RTS Info (geoblocked)
+# $(curl 'https://tp.srgssr.ch/akahd/token?acl=%2Fhls%2Flive%2F2022077%2Fsrgssr-hls-stream20-ch-dvr%2F*' -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0' -H 'Accept: */*' -H 'Accept-Language: en-GB,en;q=0.5' -H 'Accept-Encoding: gzip, deflate, br, zstd' -H 'Referer: https://www.rts.ch/' -H 'Origin: https://www.rts.ch' -H 'DNT: 1' -H 'Sec-Fetch-Dest: empty' -H 'Sec-Fetch-Mode: cors' -H 'Sec-Fetch-Site: cross-site' -H 'Connection: keep-alive' -H 'Priority: u=4' -H 'Pragma: no-cache' -H 'Cache-Control: no-cache' -H 'TE: trailers' > json && #EXTINF:-1,"https://srgssrch.akamaized.net/"$(echo $json | jq .acl)$(echo $json | jq .authparams))
+
+#EXTINF:-1,CH - RTS Coleur 3 (geoblocked)
+https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
+
+#EXTINF:-1,CH - RSI La1 (geoblocked)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=UNKNOWN:644a547253e13c711ec321f3733bdd63
+https://rsila1-euwe.akamaized.net/0655dfed-d2b0-41da-a597-ffa7394eae8f/rsi1.ism/manifest(format=mpd-time-csf,encryption=cenc)
+
+#EXTINF:-1,CH - RSI La2 (geoblocked)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=UNKNOWN:18a79e21573e9338eaef2129b24fa16a
+https://rsila2-euwe.akamaized.net/788b597f-58fa-4502-bb43-c85b15c66d34/rsi2.ism/manifest(format=mpd-time-csf,encryption=cenc)

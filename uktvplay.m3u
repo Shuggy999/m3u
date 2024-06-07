@@ -1,0 +1,19 @@
+#EXTINF:-1,UK - Dave (geoblocked)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=UNKNOWN:554b5456444156455245414c4c595945
+https://live-uktv.simplestreamcdn.com/live11/uktvdave/bitrate1.isml/live.mpd
+
+#EXTINF:-1,UK - Drama (geoblocked)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=UNKNOWN:554b5456444156455245414c4c595945
+https://live-uktv.simplestreamcdn.com/live12/uktvdrama/bitrate1.isml/live.mpd
+
+#EXTINF:-1,UK - W (geoblocked)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=UNKNOWN:554b5456444156455245414c4c595945
+https://live-uktv.simplestreamcdn.com/live13/uktvw/bitrate1.isml/live.mpd
+
+#EXTINF:-1,UK - Yesterday (geoblocked)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=UNKNOWN:554b5456444156455245414c4c595945
+https://live-uktv.simplestreamcdn.com/live10/uktvyesterday/bitrate1.isml/live.mpd

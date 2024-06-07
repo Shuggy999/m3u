@@ -1,4 +1,4 @@
-﻿#EXTINF
+﻿#EXTM3U
 
 # EXTINF:-1 tvg-chno="10",Telelombardia HD
 
@@ -162,5 +162,5 @@ https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
 #EXTINF:-1 tvg-chno="352",Radio4you Tv 2
 https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
 
-#EXTINF:-1 tvg-chno="99999",St1 Hevc Main10 Test
+#EXTINF:-1 tvg-chno="99999",ST1 Hevc Main10 Test
 https://cdn.dday.it/system/uploads/news/main_image/33704/main_testape.jpg

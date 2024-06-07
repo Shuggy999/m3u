@@ -1,0 +1,7 @@
+#EXTINF:-1,AT - ORF 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=UNKNOWN:7cac6f74616d090ef593344bc1cec204
+https://orf1.mdn.ors.at/orf/orf1/drmqxa/manifest.mpd?audio=deu
+
+#EXTINF:-1,DE - Das Erste
+https://mcdn.daserste.de/daserste/de/master.m3u8
