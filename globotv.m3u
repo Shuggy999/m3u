@@ -1,0 +1,76 @@
+#EXTM3U
+
+# CDNS for globotv exclusive channels:
+# https://ilglobotv-live.global.ssl.fastly.net
+# https://la7live-secure.akamaized.net
+
+# la7live is different from the la7 cdn used for the italian channel, which uses cloudflare rather than akamaized
+# Also, the la7live channels and la7 channels cannot be used interchangeably..
+
+# I am calling the channels Europe channels due to the fact that these rai channels are FTA on hotbird 13E for a while now, and they also omit imported box sets and sports 
+
+#EXTINF:-1,Rai 1 Europe
+https://ilglobotv-live.global.ssl.fastly.net/RAI1UK/Live.m3u8
+
+#EXTINF:-1,Rai 2 Europe
+https://ilglobotv-live.global.ssl.fastly.net/RAI2UK/Live.m3u8
+
+#EXTINF:-1,Rai 3 Europe
+https://ilglobotv-live.global.ssl.fastly.net/RAI3UK/Live.m3u8
+
+#EXTINF:-1,Rai Italia
+https://ilglobotv-live.global.ssl.fastly.net/RAIItaliaZA/Live.m3u8
+
+#EXTINF:-1,RAI World Premium
+https://ilglobotv-live.global.ssl.fastly.net/RAIW/Live.m3u8
+
+#EXTINF:-1,RAI News 24
+https://ilglobotv-live.global.ssl.fastly.net/RAINews24/Live.m3u8
+
+# although if you actually want to watch RAI News 24 use http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
+
+#EXTINF:-1,Rai Storia Europe
+https://ilglobotv-live.global.ssl.fastly.net/RAIStoriaUK/Live.m3u8
+
+#EXTINF:-1,Rai Scuola Europe
+https://ilglobotv-live.global.ssl.fastly.net/RAIScuolaUK/Live.m3u8
+
+#EXTINF:-1,LA7 Italia
+https://ilglobotv-live.global.ssl.fastly.net/La7Italia/Live.m3u8
+
+#EXTINF:-1,Inter TV
+https://la7live-secure.akamaized.net/InterM/Live.m3u8
+
+#EXTINF:-1,Rete Italia
+https://la7live-secure.akamaized.net/ReteItaliaTV/Live.m3u8
+
+#EXTINF:-1,Telepace
+https://64b16f23efbee.streamlock.net/telepace1/telepace1/playlist.m3u8
+
+#EXTINF:-1,111 TV
+https://5db313b643fd8.streamlock.net:443/111/111/playlist.m3u8
+
+#EXTINF:-1,Entella TV
+https://other-igtv.global.ssl.fastly.net/EntellaTV/EntellaTV/playlist.m3u8
+
+#EXTINF:-1,Telenord
+https://64b16f23efbee.streamlock.net:443/telenord/telenord/playlist.m3u8
+
+#EXTINF:-1,Zerouno TV Music
+https://5f22d76e220e1.streamlock.net:443/zerounotvmusic/zerounotvmusic/playlist.m3u8
+
+#EXTINF:-1,Zerouno TV News (Sicilia)
+https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
+
+#EXTINF:-1,London One Radio
+https://london.meway.host/live
+
+#EXTINF:-1,Rai Radio 1
+https://la7live-secure.akamaized.net/RAIRadio1/Live.m3u8
+
+#EXTINF:-1,Rai Radio 2
+https://la7live-secure.akamaized.net/RAIRadio2/Live.m3u8
+
+#EXTINF:-1,Rai Radio 3
+https://la7live-secure.akamaized.net/RAIRadio3/Live.m3u8
+

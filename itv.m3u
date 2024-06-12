@@ -5,24 +5,24 @@
 #EXTINF:-1,UK - ITV1 (geoblocked)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=UNKNOWN:06153ec0f57fce3444b29e0f1a3534fa
-http://127.0.0.1:1984/?channel=ITV
+http://127.0.0.1:1984/itvx?channel=ITV
 
 #EXTINF:-1,UK - ITV2 (geoblocked)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=UNKNOWN:cdfca35aaa2e9d1d14cde8220b3faa1d
-http://127.0.0.1:1984/?channel=ITV2
+http://127.0.0.1:1984/itvx?channel=ITV2
 
 #EXTINF:-1,UK - ITVBe (geoblocked)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=UNKNOWN:9aa1f5a1373671a15ee2db78fe3b9e5f
-http://127.0.0.1:1984/?channel=ITVBe
+http://127.0.0.1:1984/itvx?channel=ITVBe
 
 #EXTINF:-1,UK - ITV3 (geoblocked)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=UNKNOWN:866e253572c5bffb90705ef444d8d41a
-http://127.0.0.1:1984/?channel=ITV3
+http://127.0.0.1:1984/itvx?channel=ITV3
 
 #EXTINF:-1,UK - ITV4 (geoblocked)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=UNKNOWN:b0b8e8401fd42069884834c82eb11e44
-http://127.0.0.1:1984/?channel=ITV4
+http://127.0.0.1:1984/itvx?channel=ITV4
