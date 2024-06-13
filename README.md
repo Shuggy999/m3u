@@ -42,9 +42,7 @@ __A big thanks to Tundrak on his work on the [IPTV-Italia](https://github.com/Tu
 - ❌ CCTV channels - I would love to add them, but they are very difficult to crack, and I don't have a 53pojin account to see work done on the subject.
 
 ## 🏴‍☠️
-- ~~✅ allsport.games~~ he got so mad at the script he shut down his entire website
-- ✅ live-sport.duktek.online (hello Muhammad Haer)
-- ✅ yos512.blogspot.com (hello Andrew Mo)
+- none atm
 
 ## Broken Streams
 
