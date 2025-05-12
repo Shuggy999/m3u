@@ -2,27 +2,87 @@
 
 # You will need to change the urls to use a custom server. You can set this up the background of your PC of you want.
 
-#EXTINF:-1,UK - ITV1 (geoblocked)
+#EXTINF:-1,UK - ITV (geoblocked)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=UNKNOWN:06153ec0f57fce3444b29e0f1a3534fa
+#KODIPROP:inputstream.adaptive.license_key=f6654f54e2654b6591d67c7716d7c6da:1239e052a9b157bfb857fa11cd18d9d1
 http://127.0.0.1:1984/itvx?channel=ITV
 
 #EXTINF:-1,UK - ITV2 (geoblocked)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=UNKNOWN:cdfca35aaa2e9d1d14cde8220b3faa1d
+#KODIPROP:inputstream.adaptive.license_key=670eb634abe14b6598d578d7dada614b:3d701c0132321ab879bd6645f993f839
 http://127.0.0.1:1984/itvx?channel=ITV2
-
-#EXTINF:-1,UK - ITVBe (geoblocked)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=UNKNOWN:9aa1f5a1373671a15ee2db78fe3b9e5f
-http://127.0.0.1:1984/itvx?channel=ITVBe
 
 #EXTINF:-1,UK - ITV3 (geoblocked)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=UNKNOWN:866e253572c5bffb90705ef444d8d41a
+#KODIPROP:inputstream.adaptive.license_key=8df1bb25df6a4a028a1dfe01128c85e0:d16cf442d9e58b1b33ac0166d51ca06a
 http://127.0.0.1:1984/itvx?channel=ITV3
 
 #EXTINF:-1,UK - ITV4 (geoblocked)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=UNKNOWN:b0b8e8401fd42069884834c82eb11e44
+#KODIPROP:inputstream.adaptive.license_key=470184d47b5446efab050b7c20990f93:0bae47dc46cc52991b1b35dd9bacf0d1
 http://127.0.0.1:1984/itvx?channel=ITV4
+
+#EXTINF:-1,UK - ITVBe (geoblocked)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a973712ce9fc4e049ad4588d70857828:0c73990b420c5f864f79494ec866c1e7
+http://127.0.0.1:1984/itvx?channel=ITVBe
+
+#EXTINF:-1,UK - FAST Channel 1 (geoblocked)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63590579b3a4404e965b9cd32269dabc:6d1d1f66c2f8b6484ff77fa4bc54b63c
+http://127.0.0.1:1984/itvx?channel=FAST1
+
+#EXTINF:-1,UK - FAST Channel 2 (geoblocked)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=294813eed8dd4bbc99da36be3c338914:989e7df1ce279d62ba487e8b42dc64bb
+http://127.0.0.1:1984/itvx?channel=FAST2
+
+#EXTINF:-1,UK - FAST Channel 3 (geoblocked)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b974ac7f58441d0b8d22327654c6418:59e4b33b56440d6d991f3708ab79eb1d
+http://127.0.0.1:1984/itvx?channel=FAST3
+
+#EXTINF:-1,UK - FAST Channel 4 (geoblocked)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c4917144e854e58a4f25de197b225f1:40b754810dda5bbd1f38210f9cea3eec
+http://127.0.0.1:1984/itvx?channel=FAST4
+
+#EXTINF:-1,UK - FAST Channel 5 (geoblocked)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e656e92c9ba34f7eb350e51a7af89e95:6d9fcae6e25be144d96bf363e1d3dfc7
+http://127.0.0.1:1984/itvx?channel=FAST5
+
+#EXTINF:-1,UK - FAST Channel 6 (geoblocked)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=840c2cb03a760f1558b0de950c2102db:18d7f4750489affe2bd15eff64bb2ac6
+http://127.0.0.1:1984/itvx?channel=FAST6
+
+#EXTINF:-1,UK - FAST Channel 7 (geoblocked)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39ff4dc88e6e385c9896ed561627795d:fecbc4181c70bfdf13ee97d1c32b7624
+http://127.0.0.1:1984/itvx?channel=FAST7
+
+#EXTINF:-1,UK - FAST Channel 12 (geoblocked)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd6f0fc6d6aa4cc8a6b43d1c63f42924:2d0880aff6d4782989f5bd8850af7ab2
+http://127.0.0.1:1984/itvx?channel=FAST12
+
+#EXTINF:-1,UK - FAST Channel 13 (geoblocked)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7232b69291a5ea013ae9f59f591d46d8:996bbc458d229d8553dbc77abaa5190e
+http://127.0.0.1:1984/itvx?channel=FAST13
+
+#EXTINF:-1,UK - FAST Channel 15 (geoblocked)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84d706b2ef2d46a9bb281544e6472c5a:b980c5899eda7f8dc7708b9e07c2228e
+http://127.0.0.1:1984/itvx?channel=FAST15
+
+#EXTINF:-1,UK - FAST Channel 16 (geoblocked)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=68feb177fc37414aaf50c82efeda047b:4639ecc1656c11c84e436f28374d52cf
+http://127.0.0.1:1984/itvx?channel=FAST16
+
+#EXTINF:-1,UK - FAST Channel 20 (geoblocked)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dcefa84651c74976bc12c6e2f70df26b:573bab5bd78c235338d1a80d31350d84
+http://127.0.0.1:1984/itvx?channel=FAST20
