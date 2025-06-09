@@ -9,40 +9,31 @@ __A big thanks to Tundrak on his work on the [IPTV-Italia](https://github.com/Tu
 
 ### (DRM) - you need to use OTT Navigator.
 ### (VPN) - you need to use a VPN to the target country.
-### (FLASK) - you need to setup the flask server.
+### (FLASK) - you need to setup a flask server.
 
-## 🇮🇹
+## Non-geoblocked
+🇫🇮 Finnish (YLE World Feeds)
+🇮🇪 Irish
+🇮🇹 IT - Globotv
+🇮🇹 IT - Lombardia Local Channels
+🇬🇧 UK - Channel 4
+🇬🇧 UK (WIP)
 
-- ✅ Italian 'Tivusat' channels (VPN)
-- ✅ Rai International channels
-- ❌ Sky Italian F2A script (FLASK)
-- ✅ All Lombardia channels I could find online.
+## Geoblocked
+🇨🇭 Swiss (SRF RTS RSI)
+🇫🇮 Finnish
+🇮🇹 Italian (Tivusat Channels)
+🇬🇧 UK - BBC (iPlayer streams)
 
-## 🇬🇧
-- ✅ BBC channels (VPN)
-- ✅ Channel 4 channels OTT Navigator (DRM)
-- ✅ ITV channels with server script (DRM) (VPN) (FLASK)
-- ✅ UKTV Play channels (DRM) (VPN)
+## Others
+🇺🇳 Miscelanious
+🇺🇳 News
+🇺🇳 Temporary
 
-- ✅ livingabroad tv (FLASK)
 
-## 🇮🇪
-- ✅ RTÉ channels (DRM)
-
-## 🇨🇭
-- ✅ SRF RTS RSI channels (DRM) (VPN)
-
-## 🇫🇮
-- ❌ YLE channels
-
-## 🇪🇺
-- ✅ Random streams that sounded interesting
-
-## 🇨🇳
-- ❌ CCTV channels - I would love to add them, but they are very difficult to crack, and I don't have a 53pojin account to see work done on the subject.
-
-## 🏴‍☠️
-- none atm
+## Archive (broken m3u files)
+🇬🇧 UK - ITV (needs flask)
+🇬🇧 UK - UKTV Play (streams taken down)
 
 ## Broken Streams
 

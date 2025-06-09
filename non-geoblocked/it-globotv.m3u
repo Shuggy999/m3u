@@ -4,10 +4,11 @@
 # https://ilglobotv-live.global.ssl.fastly.net
 # https://la7live-secure.akamaized.net
 
-# la7live is different from the la7 cdn used for the italian channel, which uses cloudflare rather than akamaized
-# Also, the la7live channels and la7 channels cannot be used interchangeably..
+# la7live is different from the la7 cdn used for mainland italy, which uses cloudflare rather than akamaized,
+# and thela7live channels and la7 channels cannot be used interchangeably..
 
-# I am calling the channels Europe channels due to the fact that these rai channels are FTA on hotbird 13E for a while now, and they also omit imported box sets and sports 
+# I am calling the channels Europe channels due to the fact that these rai channels have been FTA on Hotbird 13E for a while now,
+# and they also omit imported box sets and sports
 
 #EXTINF:-1,Rai 1 Europe
 https://ilglobotv-live.global.ssl.fastly.net/RAI1UK/Live.m3u8

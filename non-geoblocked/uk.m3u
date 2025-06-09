@@ -1,0 +1,555 @@
+#EXTM3U
+
+# THIS IS A WORK IN PROGRESS
+# DO NOT USE
+
+#EXTINF:-1,BBC One
+https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c_output_0.m3u8
+
+#EXTINF:-1,BBC Two
+https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
+
+#EXTINF:-1,ITV1
+
+
+#EXTINF:-1,STV (Scotland only)
+
+
+#EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Channel_4_2022.svg/1280px-Channel_4_2022.svg.png",Channel 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png",Channel 5
+https://cachehsi1a.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
+
+#EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-logo="https://raw.githubusercontent.com/Shuggy999/channellogos/main/ITV2.png" group-title="🇬🇧🇮🇪 General",ITV2
+https://cachehsi1a.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
+
+
+#EXTINF:-1,Local TV channels (England and Northern Ireland)
+
+
+#EXTINF:-1,BBC Alba (Scotland)
+
+
+#EXTINF:-1,That's TV
+
+
+#EXTINF:-1,BBC Four (England, Wales and Northern Ireland)
+
+
+#EXTINF:-1,BBC Scotland (Scotland only)
+
+
+#EXTINF:-1,ITV3
+https://cachehsi1a.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
+
+#EXTINF:-1,Sky Mix
+
+
+#EXTINF:-1,Quest
+
+
+#EXTINF:-1 tvg-id="E4.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/268px-E4_logo_2018.svg.png",E4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="Film4.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/1280px-Film4_logo_2018.svg.png",Film4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="QVC.HD.uk" tvg-logo="https://raw.githubusercontent.com/Shuggy999/channellogos/main/QVC.png",QVC UK
+https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
+
+
+
+#EXTINF:-1,Really
+
+#EXTINF:-1 tvg-id="More4.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/1280px-More4_logo_2018.svg.png ",More4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000000000000000000000000006d340a:efee11d60dd6a2afb6865fc141e1c4a0
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
+
+
+
+#EXTINF:-1,U&Dave
+
+
+#EXTINF:-1,U&Drama
+
+
+#EXTINF:-1,5USA
+
+
+#EXTINF:-1,Ideal World (7am-midnight only)
+
+
+#EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-name="BBC Three" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png",BBC Three
+https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
+
+#EXTINF:-1,U&W
+
+
+#EXTINF:-1,ITV4
+https://cachehsi1a.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
+
+#EXTINF:-1,U&Yesterday
+
+
+#EXTINF:-1,ITVBe
+
+
+#EXTINF:-1,E4 Extra
+
+
+#EXTINF:-1,5Star
+
+
+#EXTINF:-1,5Action
+
+
+#EXTINF:-1,GREAT! movies
+
+
+#EXTINF:-1,Sky Arts
+
+
+#EXTINF:-1,QVC Beauty (7pm-1pm only)
+
+
+#EXTINF:-1,DMAX
+
+
+#EXTINF:-1,Quest Red
+
+
+#EXTINF:-1,Legend
+
+
+#EXTINF:-1,GREAT! action (not Wales) / GREAT! movies (Wales only)
+
+
+#EXTINF:-1,Food Network
+
+
+#EXTINF:-1,HGTV
+
+
+#EXTINF:-1,Gems TV
+
+
+#EXTINF:-1,5Select
+
+
+#EXTINF:-1,Film4+1
+
+
+#EXTINF:-1,Challenge
+
+
+#EXTINF:-1,4seven
+
+
+#EXTINF:-1,GREAT! tv (5am-3am)
+
+
+#EXTINF:-1,TJC
+
+
+#EXTINF:-1,GREAT! romance (5am-3am)
+
+
+#EXTINF:-1 tvg-id="TG4.ie" tvg-logo="https://raw.githubusercontent.com/Shuggy999/channellogos/main/TG4.png",TG4
+https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
+
+#EXTINF:-1,RTE One
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=UNKNOWN:ac3d5c349891dba83977f967402e117c
+https://live.rte.ie/live/a/channel1/channel1.isml/channel1.mpd
+
+
+#EXTINF:-1,RTE Two
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=UNKNOWN:00da00f13180e7e6cd5ce87d1c974e8d
+https://live.rte.ie/live/a/channel2/channel2.isml/channel2.mpd
+
+
+#EXTINF:-1,That's TV
+
+
+#EXTINF:-1,U&Eden
+
+
+#EXTINF:-1,U&Drama+1
+
+
+#EXTINF:-1,GREAT! mystery
+
+
+#EXTINF:-1,GREAT! romance mix
+
+
+#EXTINF:-1,GREAT! player
+
+
+#EXTINF:-1,Blaze (5am-2am only)
+
+
+#EXTINF:-1,That's TV 2
+
+
+#EXTINF:-1,TBN UK
+
+
+#EXTINF:-1,True Crime
+
+
+#EXTINF:-1,True Crime Xtra
+
+
+#EXTINF:-1,Legend Xtra
+
+
+#EXTINF:-1,Quest+1
+
+
+#EXTINF:-1,That's TV 3
+
+
+#EXTINF:-1,Jewellery Maker (8am-1pm only)
+
+
+#EXTINF:-1,Hobby Maker
+
+
+#EXTINF:-1,U&Dave ja vu
+
+
+#EXTINF:-1,That's Melody
+
+
+#EXTINF:-1,That's Dance
+
+
+#EXTINF:-1,That's Melody (Greater Manchester only)
+
+
+#EXTINF:-1,That's Summer
+
+
+#EXTINF:-1,That's Dance (Greater Manchester only)
+
+
+#EXTINF:-1,That's TV (Greater Manchester only)
+
+
+#EXTINF:-1,Blaze+1 (3am-4am only)
+
+
+#EXTINF:-1,Talking Pictures TV
+
+
+#EXTINF:-1,Together TV (6pm-12am only, not Wales)
+
+
+#EXTINF:-1,PBS America (1pm-5am only)
+
+
+#EXTINF:-1,That's TV 2 (Greater Manchester only)
+
+
+#EXTINF:-1,That's TV 3 (Greater Manchester Only)
+
+
+#EXTINF:-1,TV Warehouse
+
+
+#EXTINF:-1,TV Warehouse+1
+
+
+#EXTINF:-1,Shop On TV
+
+
+#EXTINF:-1,Together TV+1
+
+
+#EXTINF:-1,WildEarth
+
+
+#EXTINF:-1,Rewind TV
+
+
+#EXTINF:-1,ITVBe+1 (5am-7am only)
+
+
+#EXTINF:-1,SonLife
+
+
+#EXTINF:-1,High Street TV
+
+
+#EXTINF:-1,Manchester TV (Greater Manchester only)
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,CBBC
+
+
+#EXTINF:-1,CBeebies
+
+
+
+#EXTINF:-1,Pop
+
+
+#EXTINF:-1,Tiny Pop
+
+
+#EXTINF:-1,Pop Up
+
+
+#EXTINF:-1,Pop Player
+
+
+#EXTINF:-1,Ketchup TV
+
+
+#EXTINF:-1,Ketchup Too
+
+
+#EXTINF:-1,Yaaas!
+
+
+
+
+#EXTINF:-1,Moochi
+
+
+#EXTINF:-1,BBC News
+
+
+#EXTINF:-1,BBC Parliament
+
+
+#EXTINF:-1,Sky News
+
+
+#EXTINF:-1,GB News
+
+
+#EXTINF:-1,BBC Red Button
+
+
+#EXTINF:-1,Al Jazeera English
+
+
+#EXTINF:-1,Al Jazeera Arabic
+
+
+#EXTINF:-1,Trailblazer
+
+
+#EXTINF:-1,On Demand 365
+
+
+#EXTINF:-1,France24
+
+
+#EXTINF:-1,Odyssey TV
+
+
+#EXTINF:-1,Euronews
+
+
+#EXTINF:-1,Real Crime
+
+
+#EXTINF:-1,MBC
+
+
+#EXTINF:-1,ASHARQ News
+
+
+#EXTINF:-1,Al Arabiya
+
+
+#EXTINF:-1,Shots!
+
+
+#EXTINF:-1,SonLife Broadcasting Network
+
+
+#EXTINF:-1,Alaraby Network
+
+
+#EXTINF:-1,Rok
+
+
+#EXTINF:-1,Revelation TV
+
+
+#EXTINF:-1,GOD TV
+
+
+#EXTINF:-1,3ABN
+
+
+#EXTINF:-1,Amazing Discoveries
+
+
+#EXTINF:-1,Together TV IP
+
+
+#EXTINF:-1,Channelbox
+
+
+#EXTINF:-1,NHK World
+
+
+#EXTINF:-1,Newsmax
+
+
+#EXTINF:-1,Amazing Facts
+
+
+#EXTINF:-1,wedotv movies
+
+
+#EXTINF:-1,CNA
+
+
+#EXTINF:-1,UK Radio Portal
+
+
+#EXTINF:-1,Nosey
+
+
+#EXTINF:-1,Purpose Media
+
+
+#EXTINF:-1,TalkTV
+
+
+#EXTINF:-1,Extreme
+
+
+#EXTINF:-1,Global Arabic+
+
+
+#EXTINF:-1,GIGS
+
+
+#EXTINF:-1,Trace UK
+
+
+#EXTINF:-1,It Is Written TV
+
+
+#EXTINF:-1,Nolly TV
+
+
+#EXTINF:-1,Freeview Accessible TV Guide
+
+
+#EXTINF:-1,BBC Red Button 1
+
+
+
+
+
+# EXTINF:-1,BBC Radio 1
+
+
+# EXTINF:-1,BBC Radio 1Xtra
+
+
+# EXTINF:-1,BBC Radio 2
+
+
+# EXTINF:-1,BBC Radio 3
+
+
+# EXTINF:-1,BBC Radio 4
+
+
+# EXTINF:-1,BBC Radio 5 Live
+
+
+# EXTINF:-1,BBC Radio 5 Live Sports Extra
+
+
+# EXTINF:-1,BBC Radio 6 Music
+
+
+# EXTINF:-1,BBC Radio 4 Extra
+
+
+# EXTINF:-1,BBC Asian Network
+
+
+# EXTINF:-1,BBC World Service
+
+
+# EXTINF:-1,Local radio stations
+
+
+# EXTINF:-1,Local radio stations
+
+
+# EXTINF:-1,Local radio stations
+
+
+# EXTINF:-1,Local radio stations
+
+
+# EXTINF:-1,Local radio stations
+
+
+# EXTINF:-1,Local radio stations
+
+
+# EXTINF:-1,Local radio stations
+
+
+# EXTINF:-1,Smooth Radio
+
+
+# EXTINF:-1,talkSPORT
+
+
+# EXTINF:-1,Capital
+
+
+# EXTINF:-1,Premier Christian Radio
+
+
+# EXTINF:-1,Heart
+
+
+# EXTINF:-1,RTE Radio (Northern Ireland only)
+
+
+# EXTINF:-1,RNIB Connect
+
+
+# EXTINF:-1,Classic FM
+
+
+# EXTINF:-1,LBC
+
+
+# EXTINF:-1,Trans World Radio
+

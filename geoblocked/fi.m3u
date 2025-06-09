@@ -1,0 +1,78 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Yle_TV1_logo.svg/1280px-Yle_TV1_logo.svg.png",Yle TV1
+https://yletv.akamaized.net/hls/live/622365/yletv1fin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Yle_TV2_logo.svg/1280px-Yle_TV2_logo.svg.png",Yle TV2
+https://yletv.akamaized.net/hls/live/622366/yletv2fin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/MTV3_Logo_2022.svg/1024px-MTV3_Logo_2022.svg.png",MTV3
+https://live-fi.tvkaista.net/mtv3/live.m3u8?src=videojs
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Nelonen.svg/1198px-Nelonen.svg.png",Nelonen
+https://live-fi.tvkaista.net/nelonen/live.m3u8?src=videojs
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/1280px-Yle_Teema_%26_Fem.svg.png",Yle Teema Fem
+https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/1280px-Yle_Teema_%26_Fem.svg.png",Yle Teema Fem World
+https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/MTV_Sub_Logo_2022.svg/1024px-MTV_Sub_Logo_2022.svg.png",Sub
+https://live-fi.tvkaista.net/sub/live.m3u8?src=videojs
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kanal_5_%26_TV5_Logo_2024.svg/1024px-Kanal_5_%26_TV5_Logo_2024.svg.png",TV5
+https://live-fi.tvkaista.net/tv5/live.m3u8?src=videojs
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Livlogo2009finland.svg/1024px-Livlogo2009finland.svg.png",Liv
+https://live-fi.tvkaista.net/liv/live.m3u8?src=videojs
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Jim_color_RGB.png",Jim
+https://live-fi.tvkaista.net/jim/live.m3u8?src=videojs
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/6%27eren_%26_Kutonen_Logo_2024.svg/1024px-6%27eren_%26_Kutonen_Logo_2024.svg.png",Kutonen
+https://live-fi.tvkaista.net/kutonen/live.m3u8?src=videojs
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png",TLC
+https://live-fi.tvkaista.net/tlc/live.m3u8?src=videojs
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Star_Channel_2023.svg/1280px-Star_Channel_2023.svg.png",Star Channel
+https://live-fi.tvkaista.net/star-channel/live.m3u8?src=videojs
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MTV_Ava_Logo_2022.svg/1280px-MTV_Ava_Logo_2022.svg.png",AVA
+https://live-fi.tvkaista.net/ava/live.m3u8?src=videojs
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nelonen_Hero.svg/1280px-Nelonen_Hero.svg.png",Hero
+https://live-fi.tvkaista.net/hero/live.m3u8?src=videojs
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Frii_Logo_2024.svg/1024px-Frii_Logo_2024.svg.png",Frii
+https://live-fi.tvkaista.net/frii/live.m3u8?src=videojs
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fi/b/bf/Eveo_logo.png",TapahtumaTV Eveo
+https://live-fi.tvkaista.net/tapahtumatv-eveo/live.m3u8?src=videojs
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png",National Geographic
+https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=videojs
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fi/thumb/4/4d/TV7.svg/1024px-TV7.svg.png",Taivas TV7
+https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fi/b/b7/TV7.svg/1024px-TV7.svg.png",Himlen TV7
+https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/OnniTV_logo.svg/1024px-OnniTV_logo.svg.png",OnniTV
+https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IRR-TV_logo.svg/1024px-IRR-TV_logo.svg.png",IRR-TV
+https://irrtv2.digitacdn.net/live/ott/irrtv/playlist.m3u8
+
+
+# #EXTINF:-1,Maaseudun Tulevaisuus
+# /maaseudun-tulevaisuus/
+
+# #EXTINF:-1,One Way TV
+# /one-way-tv/
+
+# #EXTINF:-1,Inspiration TV
+# /inspiration/
+

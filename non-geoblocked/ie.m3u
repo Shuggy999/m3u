@@ -1,0 +1,66 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="RTÉ.One.ie" tvg-logo="https://raw.githubusercontent.com/Shuggy999/channellogos/main/RTEOne.png",RTÉ One
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=575e49ee6270de247bb5f814a98a6b2b:ac3d5c349891dba83977f967402e117c
+https://live.rte.ie/live/a/channel1/channel1.isml/channel1.mpd
+
+#EXTINF:-1 tvg-id="RTÉ2.ie" tvg-logo="https://raw.githubusercontent.com/Shuggy999/channellogos/main/RTETwo.png",RTÉ Two
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
+https://live.rte.ie/live/a/channel2/channel2.isml/channel2.mpd
+
+#EXTINF:-1 tvg-id="RTÉ.News.ie" tvg-logo="https://raw.githubusercontent.com/Shuggy999/channellogos/main/RTENews.jpeg",RTÉ News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=765cd70494b06fd06494702620bbc172:a453f47fa795900309609b68737b8c60
+https://live.rte.ie/live/a/channel3/channel3.isml/channel3.mpd
+
+#EXTINF:-1 tvg-id="RTÉ.Jr.ie" tvg-logo="https://raw.githubusercontent.com/Shuggy999/channellogos/main/RTEjr.png",RTEjr
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a3c1d1cb88ea5a8a38528d0b9702390:a4c4e53270616bc2c88c5edce8fd4474
+https://live.rte.ie/live/a/channel4/channel4.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="TG4.ie" tvg-logo="https://raw.githubusercontent.com/Shuggy999/channellogos/main/TG4.png",TG4
+https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
+
+#EXTINF:-1 tvg-id="Virgin.Media.One.ie" tvg-logo="https://raw.githubusercontent.com/Shuggy999/channellogos/main/VirginMediaOne.png",Virgin Media One
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a4852ca631e42e553cf53ad6150f7b0:f1e3f39d41614993ac5c5353f6e58d1c
+https://live-virginmedia.simplestreamcdn.com/out/v1/636bbabe78a242b1bd65fd915574b9c1/index.mpd
+
+#EXTINF:-1 tvg-id="Virgin.Media.Two.ie" tvg-logo="https://raw.githubusercontent.com/Shuggy999/channellogos/main/VirginMediaTwo.png",Virgin Media Two
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c4ef154df2f1c07704f4ffae4005be6:294e0a27e76c43aeb16c2b71fc201cfb
+https://live-virginmedia.simplestreamcdn.com/out/v1/376321a2e3cc434baf3805af05a9aaac/index.mpd
+
+#EXTINF:-1 tvg-id="Virgin.Media.Three.ie" tvg-logo="https://raw.githubusercontent.com/Shuggy999/channellogos/main/VirginMediaThree.png",Virgin Media Three
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b10708238b2fe95e0080fe17c28d88fb:1afd6317f3b44772aa2463e1ea1f7d42
+https://live-virginmedia.simplestreamcdn.com/out/v1/426d7a9e942b4f64917d66940bd3b147/index.mpd
+
+#EXTINF:-1 tvg-id="Virgin.Media.Four.ie" tvg-logo="https://raw.githubusercontent.com/Shuggy999/channellogos/main/VirginMediaFour.png",Virgin Media Four
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bdcf25ad46d7907c35832964b836a4bd:9edd4350307b4405b132ff97816d81e9
+https://live-virginmedia.simplestreamcdn.com/out/v1/bb744b243afb44eabcc56d002c36cafd/index.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Oireachtas_logo.svg/612px-Oireachtas_logo.svg.png",Oireachtas TV
+https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Oireachtas_logo.svg/612px-Oireachtas_logo.svg.png",Dáil Éireann live
+https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Oireachtas_logo.svg/612px-Oireachtas_logo.svg.png",Seanad Éireann live
+https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Oireachtas_logo.svg/612px-Oireachtas_logo.svg.png",Committee Room 1 Live
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr1/hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Oireachtas_logo.svg/612px-Oireachtas_logo.svg.png",Committee Room 2 Live
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr2/hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Oireachtas_logo.svg/612px-Oireachtas_logo.svg.png",Committee Room 3 Live
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Oireachtas_logo.svg/612px-Oireachtas_logo.svg.png",Committee Room 4 Live
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr4/hls.m3u8
